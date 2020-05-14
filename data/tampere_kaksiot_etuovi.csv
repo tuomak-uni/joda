@@ -1,0 +1,991 @@
+,Alue,Osoite,Hinta,Koko,Vuosi,Talotyyppi,Sauna,Parveke,Katu
+0,Muotiala,Muotialantie 74 C,208000.0,54.0,2008.0,Luhtitalo,False,False,Muotialantie
+1,Kaleva,Teiskontie 13,218000.0,60.0,1954.0,Kerrostalo,False,False,Teiskontie
+2,Kaleva,Lemminkäisenkatu 6,185000.0,52.5,1960.0,Kerrostalo,False,False,Lemminkäisenkatu
+3,Tammela,Välimaankatu 7,178000.0,48.6,1932.0,Kerrostalo,False,False,Välimaankatu
+4,Amuri,Kortelahdenkatu 18 B,174000.0,40.0,1970.0,Kerrostalo,False,False,Kortelahdenkatu
+5,Kaleva,Sammonkatu 37,219000.0,53.5,1957.0,Kerrostalo,False,False,Sammonkatu
+6,Kaleva,Kalevan puistotie 11,183000.0,50.0,1955.0,Kerrostalo,False,False,Kalevan
+7,Kaleva,Sammonkatu 37,186000.0,42.5,1957.0,Kerrostalo,False,False,Sammonkatu
+8,Santalahti,Rantatie 37 C 56,181800.0,38.0,2019.0,Kerrostalo,False,False,Rantatie
+9,Hatanpää,Hatanpään puistokuja 29,249000.0,50.0,2017.0,Kerrostalo,False,False,Hatanpään
+10,Turtola,Sotilaankuja 11,189000.0,58.5,2004.0,Luhtitalo,True,False,Sotilaankuja
+11,Tampereen,Itsenäisyydenkatu 3,315000.0,47.5,2018.0,Kerrostalo,False,False,Itsenäisyydenkatu
+12,Rantaperkiö,Pihlajakatu 6 A,179000.0,49.5,2006.0,Kerrostalo,False,False,Pihlajakatu
+13,Hakametsä,Uudenkylänkatu 4,174000.0,53.5,1972.0,Kerrostalo,False,False,Uudenkylänkatu
+14,Keskusta,Yliopistonkatu 46 A,179900.0,46.5,1961.0,Kerrostalo,False,False,Yliopistonkatu
+15,Tesoma,Tesomankatu 20,91000.0,58.5,1973.0,Kerrostalo,False,False,Tesomankatu
+16,Vuores,Tervaskatu 4 B,159870.0,40.5,2021.0,Kerrostalo,False,False,Tervaskatu
+17,Takahuhti,Hanhenmäenkatu 1 B,168800.0,37.0,2020.0,Kerrostalo,False,False,Hanhenmäenkatu
+18,Takahuhti,Hanhenmäenkatu 1 A,191700.0,45.5,2020.0,Kerrostalo,False,False,Hanhenmäenkatu
+19,Ranta-Tampella,Ranta-Tampellan katu 15 A,220160.0,38.0,2020.0,Kerrostalo,False,False,Ranta-Tampellan
+20,Ranta-Tampella,Ranta-Tampellan katu 15 A,245150.0,35.5,2020.0,Kerrostalo,False,False,Ranta-Tampellan
+21,Pyynikki,Pyynikintie 62,168000.0,57.0,1951.0,Puutalo-osake,False,False,Pyynikintie
+22,Rantaperkiö,Härmälänkatu 23,108000.0,48.0,1971.0,Kerrostalo,False,False,Härmälänkatu
+23,Santalahti,Tiporaitti 9 E 128,183500.0,36.5,2019.0,Kerrostalo,False,False,Tiporaitti
+24,Hervanta,Arkkitehdinkatu 16,139000.0,48.0,1989.0,Kerrostalo,False,False,Arkkitehdinkatu
+25,Härmälänranta,Lentovarikonkatu 2,139800.0,39.0,2016.0,Kerrostalo,False,False,Lentovarikonkatu
+26,Kaleva,Tiilikentänpolku 8 D71,204910.0,32.0,2022.0,Kerrostalo,False,False,Tiilikentänpolku
+27,Kaleva,Tiilikentänpolku 8 D68,202290.0,32.0,2022.0,Kerrostalo,False,False,Tiilikentänpolku
+28,Kaleva,Tiilikentänpolku 8 D67,255050.0,46.5,2022.0,Kerrostalo,True,False,Tiilikentänpolku
+29,Kaleva,Tiilikentänpolku 8 D64,227360.0,35.5,2022.0,Kerrostalo,False,False,Tiilikentänpolku
+30,Kaleva,Tiilikentänpolku 8 D63,199960.0,32.0,2022.0,Kerrostalo,False,False,Tiilikentänpolku
+31,Kaleva,Tiilikentänpolku 8 D60,197330.0,32.0,2022.0,Kerrostalo,False,False,Tiilikentänpolku
+32,Kaleva,Tiilikentänpolku 8 D59,248920.0,46.5,2022.0,Kerrostalo,True,False,Tiilikentänpolku
+33,Kaleva,Tiilikentänpolku 8 D56,221820.0,35.5,2022.0,Kerrostalo,False,False,Tiilikentänpolku
+34,Kaleva,Tiilikentänpolku 8 D55,197330.0,32.0,2022.0,Kerrostalo,False,False,Tiilikentänpolku
+35,Kaleva,Tiilikentänpolku 8 D52,194420.0,32.0,2022.0,Kerrostalo,False,False,Tiilikentänpolku
+36,Kaleva,Tiilikentänpolku 8 D50,226770.0,39.0,2022.0,Kerrostalo,True,False,Tiilikentänpolku
+37,Kaleva,Tiilikentänpolku 8 D51,191500.0,31.5,2022.0,Kerrostalo,False,False,Tiilikentänpolku
+38,Kaleva,Tiilikentänpolku 8 D47,215700.0,35.5,2022.0,Kerrostalo,False,False,Tiilikentänpolku
+39,Kaleva,Tiilikentänpolku 8 D45,218900.0,35.5,2022.0,Kerrostalo,False,False,Tiilikentänpolku
+40,Kaleva,Tiilikentänpolku 8 D41,191800.0,32.0,2022.0,Kerrostalo,False,False,Tiilikentänpolku
+41,Kaleva,Tiilikentänpolku 8 D40,188590.0,31.5,2022.0,Kerrostalo,False,False,Tiilikentänpolku
+42,Kaleva,Tiilikentänpolku 8 D39,223860.0,39.0,2022.0,Kerrostalo,True,False,Tiilikentänpolku
+43,Kaleva,Tiilikentänpolku 8 D36,212780.0,35.5,2022.0,Kerrostalo,False,False,Tiilikentänpolku
+44,Kaleva,Tiilikentänpolku 8 D34,215700.0,35.5,2022.0,Kerrostalo,False,False,Tiilikentänpolku
+45,Kaleva,Tiilikentänpolku 8 D33,191500.0,32.0,2022.0,Kerrostalo,False,False,Tiilikentänpolku
+46,Kaleva,Tiilikentänpolku 8 D30,188880.0,32.0,2022.0,Kerrostalo,False,False,Tiilikentänpolku
+47,Kaleva,Tiilikentänpolku 8 D29,185970.0,31.5,2022.0,Kerrostalo,False,False,Tiilikentänpolku
+48,Kaleva,Tiilikentänpolku 8 D28,220940.0,39.0,2022.0,Kerrostalo,True,False,Tiilikentänpolku
+49,Kaleva,Tiilikentänpolku 8 D25,209580.0,35.5,2022.0,Kerrostalo,False,False,Tiilikentänpolku
+50,Kaleva,Tiilikentänpolku 8 D23,212490.0,35.5,2022.0,Kerrostalo,False,False,Tiilikentänpolku
+51,Kaleva,Tiilikentänpolku 8 D22,188880.0,32.0,2022.0,Kerrostalo,False,False,Tiilikentänpolku
+52,Kaleva,Tiilikentänpolku 8 D19,186260.0,32.0,2022.0,Kerrostalo,False,False,Tiilikentänpolku
+53,Kaleva,Tiilikentänpolku 8 D18,183340.0,31.5,2022.0,Kerrostalo,False,False,Tiilikentänpolku
+54,Kaleva,Tiilikentänpolku 8 D17,217740.0,39.0,2022.0,Kerrostalo,True,False,Tiilikentänpolku
+55,Kaleva,Tiilikentänpolku 8 D14,206370.0,35.5,2022.0,Kerrostalo,False,False,Tiilikentänpolku
+56,Kaleva,Tiilikentänpolku 8 D12,209580.0,35.5,2022.0,Kerrostalo,False,False,Tiilikentänpolku
+57,Kaleva,Tiilikentänpolku 8 D11,183930.0,32.0,2022.0,Kerrostalo,False,False,Tiilikentänpolku
+58,Kaleva,Tiilikentänpolku 8 D8,181300.0,32.0,2022.0,Kerrostalo,False,False,Tiilikentänpolku
+59,Kaleva,Tiilikentänpolku 8 D7,178390.0,31.5,2022.0,Kerrostalo,False,False,Tiilikentänpolku
+60,Kaleva,Tiilikentänpolku 8 D6,212490.0,39.0,2022.0,Kerrostalo,True,False,Tiilikentänpolku
+61,Kaleva,Tiilikentänpolku 8 D3,201120.0,35.5,2022.0,Kerrostalo,False,False,Tiilikentänpolku
+62,Kaleva,Tiilikentänpolku 8 D1,204040.0,35.5,2022.0,Kerrostalo,False,False,Tiilikentänpolku
+63,Amuri,Savilinnankatu 9,179000.0,50.0,1955.0,Kerrostalo,False,False,Savilinnankatu
+64,Lamminpää,Isoahonkatu 3,89000.0,46.0,1970.0,Kerrostalo,False,False,Isoahonkatu
+65,Halkoniemi,Halkoniemenkuja 4,188500.0,42.0,2018.0,Kerrostalo,True,False,Halkoniemenkuja
+66,Ranta-Tampella,Ranta-Tampellan katu 15 A25,225180.0,43.5,2019.0,Kerrostalo,True,True,Ranta-Tampellan
+67,Ranta-Tampella,Ranta-Tampellan katu 15 A19,220180.0,43.5,2019.0,Kerrostalo,True,True,Ranta-Tampellan
+68,Ranta-Tampella,Ranta-Tampellan katu 15 A29,242150.0,35.5,2019.0,Kerrostalo,True,True,Ranta-Tampellan
+69,Härmälänranta,Niilo Härmälän katu 13 A 28,204100.0,50.5,2021.0,Kerrostalo,False,False,Niilo
+70,Ranta-Tampella,Ranta-Tampellan katu 12 A 33,400500.0,60.0,2021.0,Kerrostalo,False,False,Ranta-Tampellan
+71,Härmälänranta,Fontellinpolku 9 A 24,283800.0,57.5,2021.0,Kerrostalo,True,False,Fontellinpolku
+72,Keskusta,Kuninkaankatu 34,263000.0,56.1,1964.0,Kerrostalo,False,True,Kuninkaankatu
+73,Kaleva,Pellervonkatu 16 C,198000.0,55.0,1959.0,Kerrostalo,False,False,Pellervonkatu
+74,Haapalinna,Aapelinraitti 7,130000.0,51.0,1995.0,Kerrostalo,False,False,Aapelinraitti
+75,Lapinniemi,Lapinniemenranta 2,348000.0,78.0,1924.0,Kerrostalo,True,False,Lapinniemenranta
+76,Keskusta,Kansikatu 8 B 108,189690.0,38.0,2020.0,Kerrostalo,False,False,Kansikatu
+77,Keskusta,Kansikatu 8 B 84,185330.0,38.0,2020.0,Kerrostalo,False,False,Kansikatu
+78,Keskusta,Kansikatu 8 B 77,194670.0,38.0,2020.0,Kerrostalo,False,False,Kansikatu
+79,Keskusta,Rongankatu 14,330000.0,53.0,2017.0,Kerrostalo,True,False,Rongankatu
+80,Lentävänniemi,Halkoniemenrinne 1,146900.0,34.5,2018.0,Kerrostalo,False,False,Halkoniemenrinne
+81,Hämeenpuisto,Hämeenpuisto 35,209000.0,46.0,1939.0,Kerrostalo,False,False,Hämeenpuisto
+82,Niemenranta,Federleynkatu 8 A 4,182100.0,50.0,2020.0,Kerrostalo,True,False,Federleynkatu
+83,Armonkallio,Haarakatu 10,209000.0,58.0,1961.0,Kerrostalo,False,False,Haarakatu
+84,Lahdesjärvi,Lahdenperänkatu 4 A,172000.0,51.0,2008.0,Kerrostalo,False,False,Lahdenperänkatu
+85,Kaleva,Pellervonkatu 24,169000.0,46.0,1965.0,Kerrostalo,False,False,Pellervonkatu
+86,Kaleva,Sarvijaakonkatu 1 A A 23,230308.0,41.5,2020.0,Kerrostalo,False,False,Sarvijaakonkatu
+87,Tammela,Yliopistonkatu 45 C,219000.0,54.0,1937.0,Kerrostalo,False,False,Yliopistonkatu
+88,Kaleva,Teiskontie 8,140000.0,56.5,1959.0,Kerrostalo,False,False,Teiskontie
+89,Multisilta,Kitiniitynkatu 9-11 H,105000.0,62.0,1971.0,Kerrostalo,False,False,Kitiniitynkatu
+90,Armonkallio,Siltakatu 8 C,197000.0,56.0,1932.0,Kerrostalo,False,False,Siltakatu
+91,Amuri,Satakunnankatu 33 A,267000.0,49.5,2017.0,Kerrostalo,False,False,Satakunnankatu
+92,Hervanta,Laattapolku 3,149000.0,49.0,1990.0,Kerrostalo,True,True,Laattapolku
+93,Hatanpää,Siirtolapuutarhankatu 13,179000.0,49.0,2003.0,Kerrostalo,False,False,Siirtolapuutarhankatu
+94,Härmälä,Tarmonkatu 4,108000.0,50.0,1949.0,Kerrostalo,False,False,Tarmonkatu
+95,Vuores,Rautiolanrinne 1,135000.0,39.0,2017.0,Kerrostalo,False,False,Rautiolanrinne
+96,Tammela,Tammelan puistokatu 20,188000.0,58.5,1971.0,Kerrostalo,False,True,Tammelan
+97,Tammela,Pohjolankatu 32,134000.0,38.5,1990.0,Kerrostalo,True,False,Pohjolankatu
+98,Kaleva,Sammonkatu 29,179000.0,53.1,1960.0,Kerrostalo,False,False,Sammonkatu
+99,Härmälänranta,Konttilukinkatu 3 A 3,144500.0,38.0,2021.0,Kerrostalo,False,False,Konttilukinkatu
+100,Irjala,Kolarinkatu 21,139000.0,54.5,1973.0,Kerrostalo,False,False,Kolarinkatu
+101,Järvensivu,Järvensivuntie 13,199000.0,50.5,2006.0,Kerrostalo,True,False,Järvensivuntie
+102,Hervanta,Opinpolku 1,105000.0,46.5,1984.0,Kerrostalo,True,False,Opinpolku
+103,Annala,Hikivuorenkatu 14,86000.0,57.5,1978.0,Kerrostalo,False,True,Hikivuorenkatu
+104,Keskusta,Näsilinnankatu 9,168000.0,53.0,1971.0,Kerrostalo,False,False,Näsilinnankatu
+105,Vuores,Takamaanrinne 14 A,147735.0,36.5,2020.0,Kerrostalo,False,False,Takamaanrinne
+106,Vuores,Takamaanrinne 14 A,119700.0,31.5,2020.0,Kerrostalo,False,False,Takamaanrinne
+107,Härmälä,Nuolialantie 42 A,187000.0,51.5,2006.0,Kerrostalo,True,False,Nuolialantie
+108,Niemenranta,Niemenrannanaukio 1 A 77,315500.0,66.0,2020.0,Kerrostalo,True,False,Niemenrannanaukio
+109,Niemenranta,Niemenrannanaukio 1 A 56,180400.0,41.0,2020.0,Kerrostalo,False,False,Niemenrannanaukio
+110,Niemenranta,Federleynkatu 8 A 18,196900.0,50.0,2020.0,Kerrostalo,True,False,Federleynkatu
+111,Härmälänranta,Niilo Härmälän katu 13 A 27,214600.0,52.5,2021.0,Kerrostalo,True,False,Niilo
+112,Härmälänranta,Fontellinpolku 9 A 18,275700.0,57.5,2021.0,Kerrostalo,True,False,Fontellinpolku
+113,Ranta-Tampella,Ranta-Tampellan katu 12 A 18,272300.0,44.5,2021.0,Kerrostalo,False,False,Ranta-Tampellan
+114,Niemenranta,Niemenrannanaukio 1 A 71,279000.0,62.0,2020.0,Kerrostalo,True,False,Niemenrannanaukio
+115,Keskusta,Hatanpään valtatie 14,198000.0,43.5,1929.0,Kerrostalo,False,False,Hatanpään
+116,Viinikka,Puistonperä 1 A,96000.0,52.0,1947.0,Kerrostalo,False,False,Puistonperä
+117,Hämeenpuisto,Hämeenpuisto 33,229000.0,53.5,1956.0,Kerrostalo,False,False,Hämeenpuisto
+118,Kaleva,Nyyrikintie 10,210000.0,56.0,1951.0,Kerrostalo,False,False,Nyyrikintie
+119,Rahola,Voionmaankatu 67,119500.0,53.5,1966.0,Kerrostalo,False,True,Voionmaankatu
+120,Järvensivu,Turjankatu 6-8,155000.0,45.0,1964.0,Kerrostalo,False,False,Turjankatu
+121,Härmälä,Tarmonkatu 1,83000.0,34.0,1940.0,Kerrostalo,False,False,Tarmonkatu
+122,Rahola,Metsäkylänkatu 19,115000.0,55.0,1947.0,Kerrostalo,False,False,Metsäkylänkatu
+123,Tammela,Ilmarinkatu 21,189000.0,45.0,1942.0,Kerrostalo,False,False,Ilmarinkatu
+124,Pyynikki,Satamakatu 17 F,224000.0,33.5,2019.0,Kerrostalo,False,False,Satamakatu
+125,Kaukajärvi,Solkikatu 4,109000.0,63.0,1968.0,Kerrostalo,False,False,Solkikatu
+126,Keskusta,Pellavatehtaankatu 19 C 37,195000.0,51.0,1940.0,Kerrostalo,True,False,Pellavatehtaankatu
+127,Annala,Suopursunkatu 10 C,139000.0,49.0,2011.0,Luhtitalo,False,False,Suopursunkatu
+128,Multisilta,Kitiniitynkatu 10 E,72000.0,62.0,1973.0,Kerrostalo,False,False,Kitiniitynkatu
+129,Annala,Alasenkatu 4,119000.0,59.5,1977.0,Kerrostalo,False,False,Alasenkatu
+130,Kaleva,Ilmarinkatu 25,189000.0,56.0,1942.0,Kerrostalo,False,False,Ilmarinkatu
+131,Annala,Hikivuorenkatu 6,93500.0,56.0,1974.0,Kerrostalo,False,True,Hikivuorenkatu
+132,Peltolammi/Palokallio,Ketunleivänkatu 7,109000.0,59.5,1992.0,Kerrostalo,False,False,Ketunleivänkatu
+133,Tammela,Itsenäisyydenkatu 12-14,213000.0,55.0,1951.0,Kerrostalo,False,False,Itsenäisyydenkatu
+134,Kaakinmaa,Papinkatu 8 C 63,209000.0,55.0,1963.0,Kerrostalo,False,True,Papinkatu
+135,Armonkallio,Siltakatu (käyntiosoite Soukanlahdenkatu 21) 1,188000.0,46.0,1938.0,Kerrostalo,False,False,Siltakatu
+136,Tammela,Pohjolankatu 6-8,154000.0,45.5,1970.0,Kerrostalo,False,False,Pohjolankatu
+137,Tampella,Tampellan esplanadi 3 A,275000.0,54.5,2012.0,Kerrostalo,False,False,Tampellan
+138,Lielahti,Teivaalantie 5 a A 21,199300.0,50.5,2020.0,Kerrostalo,False,False,Teivaalantie
+139,Keskusta,Hämeenkatu 3 A 12 b,264147.0,39.0,2020.0,Kerrostalo,False,False,Hämeenkatu
+140,Härmälänranta,Niilo Härmälän katu 13 A 26,218900.0,53.5,2021.0,Kerrostalo,True,False,Niilo
+141,Härmälänranta,Fontellinpolku 9 A 12,266900.0,57.5,2021.0,Kerrostalo,True,False,Fontellinpolku
+142,Ranta-Tampella,Ranta-Tampellan katu 12 A 46,338000.0,45.0,2021.0,Kerrostalo,False,False,Ranta-Tampellan
+143,Niemenranta,Meesakatu 6,142000.0,48.0,2012.0,Kerrostalo,False,False,Meesakatu
+144,Järvensivu,Turjankatu 11,152000.0,56.0,1962.0,Kerrostalo,False,False,Turjankatu
+145,Vuores,Vuoreksen puistokatu 81,125000.0,37.0,2016.0,Kerrostalo,True,False,Vuoreksen
+146,Lentävänniemi,Halkoniemenkatu 2,194000.0,52.5,2013.0,Kerrostalo,False,False,Halkoniemenkatu
+147,Keskusta,Hämeenpuisto 25,229000.0,56.0,1962.0,Kerrostalo,False,False,Hämeenpuisto
+148,Armonkallio,Lapintie 32,190000.0,47.0,1998.0,Kerrostalo,False,False,Lapintie
+149,Tampella,Juhlatalonkatu 6,235000.0,44.5,1999.0,Kerrostalo,True,False,Juhlatalonkatu
+150,Kaleva,Sammonkatu 25,189000.0,54.5,1960.0,Kerrostalo,False,False,Sammonkatu
+151,Hervanta,Atomikatu 5,125000.0,54.5,1978.0,Kerrostalo,False,False,Atomikatu
+152,Härmälänranta,Niilo Härmälän katu 13 A 19,193900.0,44.5,2021.0,Kerrostalo,False,False,Niilo
+153,Härmälänranta,Fontellinpolku 9 A 31,257900.0,48.5,2021.0,Kerrostalo,False,False,Fontellinpolku
+154,Ranta-Tampella,Ranta-Tampellan katu 12 A 39,321900.0,45.0,2021.0,Kerrostalo,False,False,Ranta-Tampellan
+155,Linnainmaa,Piettasenkatu 41,135000.0,52.5,1995.0,Kerrostalo,True,False,Piettasenkatu
+156,Annala,Ojavainionkatu 1 A,130000.0,63.0,1986.0,Rivitalo,True,False,Ojavainionkatu
+157,Muotiala,Ruopionkatu 10 C,228000.0,48.0,2015.0,Luhtitalo,True,False,Ruopionkatu
+158,Tesoma,Raiskionkatu 5,93000.0,55.5,1969.0,Kerrostalo,False,False,Raiskionkatu
+159,Keskusta,Pyhäjärvenkatu 10 A,223500.0,55.5,1963.0,Kerrostalo,False,False,Pyhäjärvenkatu
+160,Kaukajärvi,Riipuksenkatu 4,143000.0,36.0,2016.0,Kerrostalo,False,False,Riipuksenkatu
+161,Niemenranta,Meesakatu 8,149800.0,35.0,2014.0,Kerrostalo,False,True,Meesakatu
+162,Lentävänniemi,Lielahdenkatu 45,139900.0,39.5,2018.0,Kerrostalo,False,False,Lielahdenkatu
+163,Pyynikki,Pirkankatu 24,249000.0,69.0,1926.0,Kerrostalo,False,False,Pirkankatu
+164,Ratina,Hatanpään valtatie 15,99000.0,49.0,1956.0,Kerrostalo,False,False,Hatanpään
+165,Kaleva,Teiskontie 17,238000.0,62.5,1956.0,Kerrostalo,False,False,Teiskontie
+166,Amuri,Niemikatu 6 C,175000.0,44.0,1974.0,Kerrostalo,False,False,Niemikatu
+167,Härmälänranta,Lentovarikonkatu 8,154000.0,47.5,2012.0,Kerrostalo,False,False,Lentovarikonkatu
+168,Kissanmaa,Kissanmaankatu 9,139000.0,47.0,1961.0,Kerrostalo,False,False,Kissanmaankatu
+169,Hervanta,Tietoraitti 10,169000.0,47.0,2018.0,Kerrostalo,False,False,Tietoraitti
+170,Keskusta,Kansikatu 8 B 216,349780.0,53.5,2020.0,Kerrostalo,False,False,Kansikatu
+171,Pispala,Pöllikuja 1,149000.0,44.5,1989.0,Kerrostalo,False,False,Pöllikuja
+172,Ranta-Tampella,Tampellan esplanadi 19 A 42,318510.0,44.0,2020.0,Kerrostalo,False,False,Tampellan
+173,Ranta-Tampella,Koelaitoksenkatu 4 A 1,224000.0,43.0,2020.0,Kerrostalo,False,False,Koelaitoksenkatu
+174,Ranta-Tampella,Koelaitoksenkatu 4,224000.0,43.0,2020.0,Kerrostalo,False,False,Koelaitoksenkatu
+175,Ranta-Tampella,Koelaitoksenkatu 4 A 2,289000.0,55.5,2020.0,Kerrostalo,False,False,Koelaitoksenkatu
+176,Ranta-Tampella,Koelaitoksenkatu 4 A 2,289000.0,55.5,2020.0,Kerrostalo,False,False,Koelaitoksenkatu
+177,Kaukajärvi,Osuuskunnankatu 3 A,159800.0,62.5,2002.0,Kerrostalo,False,False,Osuuskunnankatu
+178,Kaakinmaa,Pyhäjärvenkatu 6 C,199000.0,55.0,1963.0,Kerrostalo,False,True,Pyhäjärvenkatu
+179,Ala-Pispala,Uittotunnelinkatu 8,165000.0,57.5,1996.0,Luhtitalo,False,False,Uittotunnelinkatu
+180,Härmälänranta,Niilo Härmälän katu 13 A 64,226000.0,47.0,2021.0,Kerrostalo,False,False,Niilo
+181,Härmälänranta,Fontellinpolku 9 A 02,218100.0,48.5,2021.0,Kerrostalo,False,False,Fontellinpolku
+182,Ranta-Tampella,Ranta-Tampellan katu 12 A 40,420500.0,60.0,2021.0,Kerrostalo,False,False,Ranta-Tampellan
+183,Keskusta,Kansikatu 8 A 47,207130.0,44.0,2020.0,Kerrostalo,False,False,Kansikatu
+184,Keskusta,Kansikatu 8 A 46,202460.0,43.5,2020.0,Kerrostalo,False,False,Kansikatu
+185,Takahuhti,Irjalankatu 18-20,119000.0,44.0,1963.0,Kerrostalo,False,False,Irjalankatu
+186,Kalkku,Kalkunvuorenkatu 11,165000.0,61.5,2008.0,Luhtitalo,False,False,Kalkunvuorenkatu
+187,Tammela,Kullervonkatu 20,226000.0,65.0,1972.0,Kerrostalo,False,False,Kullervonkatu
+188,Nalkala,Näsilinnankatu 46,215000.0,57.0,2006.0,Kerrostalo,False,False,Näsilinnankatu
+189,Maisansao,Koljonseläntie 7,68000.0,54.0,1975.0,Paritalo,False,False,Koljonseläntie
+190,Tampella,Tampellan esplanadi 3,299000.0,60.5,2012.0,Kerrostalo,False,False,Tampellan
+191,Keskusta,Kansikatu 8 B 209,336390.0,53.5,2020.0,Kerrostalo,True,False,Kansikatu
+192,Lentävänniemi,Porrassalmenkuja 3 A 13,145200.0,61.0,1978.0,Rivitalo,False,False,Porrassalmenkuja
+193,Keskusta,Kansikatu 8 B 196,332030.0,54.0,2020.0,Kerrostalo,True,False,Kansikatu
+194,Keskusta,Kansikatu 8 B 195,322990.0,53.5,2020.0,Kerrostalo,True,False,Kansikatu
+195,Kaleva,Pellervonkatu 24,198000.0,57.0,1965.0,Kerrostalo,False,False,Pellervonkatu
+196,Härmälänranta,Niilo Härmälän katu 13 A 30,197900.0,44.5,2021.0,Kerrostalo,False,False,Niilo
+197,Härmälänranta,Fontellinpolku 9 A 03,220900.0,49.0,2021.0,Kerrostalo,True,False,Fontellinpolku
+198,Härmälänranta,Fontellinpolku 9 A 01,243500.0,57.5,2021.0,Kerrostalo,True,False,Fontellinpolku
+199,Ranta-Tampella,Ranta-Tampellan katu 12 A 19,363200.0,60.0,2021.0,Kerrostalo,False,False,Ranta-Tampellan
+200,Janka,Elonpolku 5 A,162000.0,45.5,2003.0,Kerrostalo,False,False,Elonpolku
+201,Kaleva,Aaronaukio 2 a,229000.0,46.5,2017.0,Kerrostalo,False,False,Aaronaukio
+202,Annala,Hikivuorenkatu 9,145000.0,60.5,1975.0,Kerrostalo,False,False,Hikivuorenkatu
+203,Vuores,Kokinpellonrinne 4,129000.0,33.0,2017.0,Kerrostalo,False,False,Kokinpellonrinne
+204,Keskusta,Kansikatu 8 B 182,321130.0,54.0,2020.0,Kerrostalo,True,False,Kansikatu
+205,Keskusta,Kansikatu 8 B 181,312090.0,53.5,2020.0,Kerrostalo,True,False,Kansikatu
+206,Multisilta,Multiojankatu 28 J 67,94752.21637866266,57.5,1974.0,Kerrostalo,False,True,Multiojankatu
+207,Keskusta,Kansikatu 8 B 120,193110.0,38.0,2020.0,Kerrostalo,False,False,Kansikatu
+208,Keskusta,Kansikatu 8 B 96,187510.0,38.0,2020.0,Kerrostalo,False,False,Kansikatu
+209,Keskusta,Kansikatu 8 B 89,198410.0,38.0,2020.0,Kerrostalo,False,False,Kansikatu
+210,Keskusta,Kansikatu 8 B 74,182210.0,38.0,2020.0,Kerrostalo,False,False,Kansikatu
+211,Keskusta,Kansikatu 8 B 67,192180.0,38.0,2020.0,Kerrostalo,False,False,Kansikatu
+212,Ranta-Tampella,Ranta-Tampellan katu 17,279000.0,43.5,2019.0,Kerrostalo,False,False,Ranta-Tampellan
+213,Ranta-Tampella,Ranta-Tampellan katu 19,206000.0,29.5,2019.0,Kerrostalo,False,False,Ranta-Tampellan
+214,Ranta-Tampella,Ranta-Tampellan katu 15,289000.0,49.5,2019.0,Kerrostalo,False,False,Ranta-Tampellan
+215,Ranta-Tampella,Ranta-Tampellan katu 15,259000.0,43.5,2019.0,Kerrostalo,False,False,Ranta-Tampellan
+216,Viiala,Nuijatie 36,123000.0,42.0,1999.0,Kerrostalo,False,False,Nuijatie
+217,Linnainmaa,Piettasenristi 7,139000.0,52.0,2005.0,Kerrostalo,False,False,Piettasenristi
+218,Keskusta,Kansikatu 8 A 36,205260.0,44.0,2020.0,Kerrostalo,False,False,Kansikatu
+219,Keskusta,Kansikatu 8 A 35,200900.0,43.5,2020.0,Kerrostalo,False,False,Kansikatu
+220,Hervanta,Insinöörinkatu 24,116000.0,61.0,1983.0,Kerrostalo,False,False,Insinöörinkatu
+221,Rantaperkiö,Härmälänkatu 18,137000.0,57.5,1964.0,Kerrostalo,False,False,Härmälänkatu
+222,Keskusta,Kansikatu 8 A 24,197160.0,43.5,2020.0,Kerrostalo,False,False,Kansikatu
+223,Nekala,Jokipohjantie 31 A,87000.0,44.5,1941.0,Kerrostalo,False,False,Jokipohjantie
+224,Halkoniemi,Halkoniemenkuja 4,188000.0,42.0,2018.0,Kerrostalo,False,False,Halkoniemenkuja
+225,Halkoniemi,Halkoniemenkuja 4,163000.0,40.0,2018.0,Kerrostalo,False,False,Halkoniemenkuja
+226,Keskusta,Aleksanterinkatu 22,249000.0,64.5,1936.0,Kerrostalo,False,False,Aleksanterinkatu
+227,Vuores,Isokuusenkatu 47 A 13,146890.0,42.0,2020.0,Kerrostalo,False,False,Isokuusenkatu
+228,Hervanta,Insinöörinkatu 32,149000.0,44.0,1991.0,Kerrostalo,False,False,Insinöörinkatu
+229,Hevanta,Insinöörinkatu 52 B,159000.0,63.0,1986.0,Kerrostalo,False,False,Insinöörinkatu
+230,Vuores,Frans Emilin katu 2,158000.0,50.0,2012.0,Kerrostalo,False,False,Frans
+231,Multisilta,Kitiniitynkatu 9-11 D 57,94752.21637866266,57.5,1971.0,Kerrostalo,False,True,Kitiniitynkatu
+232,Pohtola,Päiväperhonkatu 1,145900.0,37.5,2019.0,Kerrostalo,False,False,Päiväperhonkatu
+233,Lielahti,Teivaalantie 5 a A 07,163200.0,38.0,2020.0,Kerrostalo,False,False,Teivaalantie
+234,Hervanta,Opiskelijankatu 5 A,98500.0,55.5,1977.0,Kerrostalo,False,True,Opiskelijankatu
+235,Keskusta,Näsilinnankatu 11 A,199000.0,51.5,1974.0,Kerrostalo,False,False,Näsilinnankatu
+236,Armonkallio,Ihanakatu 1,198000.0,53.0,1963.0,Kerrostalo,False,False,Ihanakatu
+237,Rahola,Voionmaankatu 71,126000.0,57.0,1964.0,Kerrostalo,False,False,Voionmaankatu
+238,Tampella,Tampellan Esplanadi 9,298000.0,61.5,2008.0,Kerrostalo,False,False,Tampellan
+239,Holvasti,Kurunniitynkatu 9,140000.0,55.0,1972.0,Rivitalo,False,False,Kurunniitynkatu
+240,Rautaharkko,Savikonkatu 1,114000.0,55.0,1954.0,Kerrostalo,False,False,Savikonkatu
+241,Härmälänranta,Niilo Härmälän katu 13 A 21,212100.0,54.0,2021.0,Kerrostalo,False,False,Niilo
+242,Multisilta,Multisillankatu 9 A,62000.0,56.0,1978.0,Kerrostalo,False,False,Multisillankatu
+243,Tammela,Peltokatu 25-27,229000.0,60.0,1970.0,Kerrostalo,False,False,Peltokatu
+244,Ranta-Tampella,Ranta-Tampellan katu 21 A5,303000.0,57.0,2021.0,Kerrostalo,True,False,Ranta-Tampellan
+245,Ranta-Tampella,Ranta-Tampellan katu 21 A24,273000.0,44.0,2021.0,Kerrostalo,False,False,Ranta-Tampellan
+246,Hervanta,Insinöörinkatu 58,136000.0,60.0,1995.0,Kerrostalo,False,False,Insinöörinkatu
+247,Kaleva,Tursonkatu 1 A,207000.0,52.0,2012.0,Kerrostalo,False,False,Tursonkatu
+248,Tammela,Yliopistonkatu 50,273000.0,48.5,2016.0,Kerrostalo,False,False,Yliopistonkatu
+249,Multisilta,Perkkoonkatu 1 B,139000.0,38.5,2020.0,Kerrostalo,False,False,Perkkoonkatu
+250,Leinola,Valjakonkatu 1,125000.0,44.0,2005.0,Kerrostalo,False,False,Valjakonkatu
+251,Vuores,Tervaskatu 4 B,127458.0,32.0,2021.0,Kerrostalo,False,False,Tervaskatu
+252,Niemenranta,Federleynkatu 14,188000.0,47.0,2018.0,Luhtitalo,False,False,Federleynkatu
+253,Härmälänranta,Vihurinkatu 11 A,193000.0,43.5,2017.0,Kerrostalo,False,False,Vihurinkatu
+254,Amuri,Sotkankatu 18 A,209000.0,59.5,1939.0,Kerrostalo,False,False,Sotkankatu
+255,Härmälänranta,Niilo Härmälän katu 13 A 16,210900.0,52.5,2021.0,Kerrostalo,True,False,Niilo
+256,Janka,Elonpolku 6,139000.0,42.0,2004.0,Kerrostalo,False,False,Elonpolku
+257,Tammela,Välimaankatu 7,195000.0,50.7,1932.0,Kerrostalo,False,False,Välimaankatu
+258,Tesoma,Käräjätörmä 2 L,88700.0,54.5,1969.0,Kerrostalo,False,False,Käräjätörmä
+259,Keskusta,Itsenäisyydenkatu 3,319000.0,54.0,2019.0,Kerrostalo,False,False,Itsenäisyydenkatu
+260,Peltolammi,Pähkinäkuja 4,79000.0,54.5,1968.0,Kerrostalo,False,False,Pähkinäkuja
+261,Pyynikki,Mariankatu 31,205000.0,50.5,1958.0,Kerrostalo,False,False,Mariankatu
+262,Kalkku,Kalkun viertotie 5,86000.0,50.0,1947.0,Kerrostalo,False,False,Kalkun
+263,Tahmela,Suuruspäänkatu 15,268000.0,59.5,1986.0,Kerrostalo,False,False,Suuruspäänkatu
+264,Pyynikki,Pyynikintori 2,319000.0,69.0,1928.0,Kerrostalo,False,False,Pyynikintori
+265,Amuri,Näsijärvenkatu 13 B,245000.0,49.0,1990.0,Kerrostalo,False,False,Näsijärvenkatu
+266,Keskusta,Näsilinnankatu 46,219000.0,55.0,2006.0,Kerrostalo,False,False,Näsilinnankatu
+267,Pyynikki,Pyhäranta 4 B 61,221480.0,56.0,2020.0,Kerrostalo,False,False,Pyhäranta
+268,Ranta-Tampella,Koelaitoksenkatu 4 A 59,307900.0,54.0,2020.0,Kerrostalo,True,False,Koelaitoksenkatu
+269,Niemenranta,Federleynkatu 8 A 31,179100.0,40.5,2020.0,Kerrostalo,False,False,Federleynkatu
+270,Kalkku,Kalkun viertotie 1,94000.0,64.0,1975.0,Kerrostalo,False,False,Kalkun
+271,Lukonmäki,Pirjonkaivonkatu 3,129000.0,61.5,1989.0,Luhtitalo,False,False,Pirjonkaivonkatu
+272,Tammela,Pinninkatu 25,209000.0,64.5,1958.0,Kerrostalo,False,False,Pinninkatu
+273,Härmälänranta,Niilo Härmälän katu 13 A 17,199100.0,50.5,2021.0,Kerrostalo,False,False,Niilo
+274,Ranta-Tampella,Ranta-Tampellan katu 12 A 26,381400.0,60.0,2021.0,Kerrostalo,False,False,Ranta-Tampellan
+275,Keskusta,Hämeenpuisto 33,210000.0,51.5,1956.0,Kerrostalo,False,False,Hämeenpuisto
+276,Niemenranta,Matilda Niemen katu 4,189500.0,53.5,2017.0,Kerrostalo,False,False,Matilda
+277,Hervanta,Tutkijankatu 2 A,164000.0,40.5,2013.0,Kerrostalo,False,False,Tutkijankatu
+278,Annala,Alasenkatu 5,108000.0,60.5,1976.0,Kerrostalo,False,False,Alasenkatu
+279,Kaleva,Pellervonkatu 22,165000.0,50.0,1965.0,Kerrostalo,False,False,Pellervonkatu
+280,Järvensivu,Järvensivuntie 59,169900.0,55.0,1989.0,Luhtitalo,False,False,Järvensivuntie
+281,Härmälänranta,Niilo Härmälän katu 13 A 02,187200.0,46.0,2021.0,Kerrostalo,True,False,Niilo
+282,Kaukajärvi,Puustellinkatu 3,102000.0,50.5,1967.0,Kerrostalo,False,False,Puustellinkatu
+283,Ristimäki,Kohmankaari 18,96000.0,50.5,1967.0,Kerrostalo,False,False,Kohmankaari
+284,Keskusta,Aleksanterinkatu 22,259000.0,61.0,1936.0,Kerrostalo,False,False,Aleksanterinkatu
+285,Muotiala,Ruopionkatu 10,218000.0,53.0,2015.0,Kerrostalo,False,False,Ruopionkatu
+286,Pyynikki,Ammattikoulunkatu 13,246000.0,57.0,1921.0,Kerrostalo,False,False,Ammattikoulunkatu
+287,Haukiluoma,Tyvikatu 5,119000.0,38.0,1989.0,Kerrostalo,False,False,Tyvikatu
+288,Pyynikki,Pyynikintie 39,239000.0,62.5,1989.0,Kerrostalo,True,False,Pyynikintie
+289,Hervanta,Tieteenkatu 12,183000.0,48.5,2013.0,Kerrostalo,False,False,Tieteenkatu
+290,Rahola,Tuularinkatu 4,89000.0,50.6,1964.0,Kerrostalo,False,False,Tuularinkatu
+291,Atala,Riihuhdankatu 17,149000.0,60.0,1988.0,Rivitalo,False,False,Riihuhdankatu
+292,Kaleva,Sarvijaakonkatu 41,234900.0,43.5,2017.0,Kerrostalo,False,False,Sarvijaakonkatu
+293,Villilä,Teeri-Villilänkatu 1,174000.0,64.0,2011.0,Rivitalo,True,False,Teeri-Villilänkatu
+294,Ranta-Tampella,Tampellan esplanadi 19 A 30,308330.0,44.0,2020.0,Kerrostalo,False,False,Tampellan
+295,Ranta-Tampella,Tampellan esplanadi 19 A 23,303000.0,43.5,2020.0,Kerrostalo,False,False,Tampellan
+296,Keskusta,Kansikatu 8 B 108,189690.0,38.0,2020.0,Kerrostalo,False,False,Kansikatu
+297,Hervanta,Tieteenkatu 12,206000.0,53.5,2013.0,Kerrostalo,True,True,Tieteenkatu
+298,Keskusta,Puutarhakatu 20,355000.0,55.0,2018.0,Kerrostalo,True,False,Puutarhakatu
+299,Muotiala,Huringinkatu 2 B 32,209000.0,56.5,2006.0,Kerrostalo,True,False,Huringinkatu
+300,Maisansalo,Koljonseläntie 7,32000.0,53.0,1975.0,Luhtitalo,False,False,Koljonseläntie
+301,Epilä,Pispalan valtatie 143 D,124000.0,56.0,1967.0,Kerrostalo,False,False,Pispalan
+302,Lentävänniemi,Männistönkatu 3 A,219900.0,56.0,2019.0,Kerrostalo,True,False,Männistönkatu
+303,Linnainmaa,Hannulanpolku 8,148000.0,34.0,2018.0,Kerrostalo,False,False,Hannulanpolku
+304,Palokallio,Ketunleivänkatu 7,127000.0,59.5,1992.0,Kerrostalo,True,False,Ketunleivänkatu
+305,Korkinmäki,Oraskuja 2,124000.0,40.5,1996.0,Rivitalo,False,False,Oraskuja
+306,Hervanta,Orivedenkatu 16,89000.0,58.5,1974.0,Kerrostalo,False,False,Orivedenkatu
+307,Lamminpää,Lintuviidankatu 1 a B 53,150000.0,43.5,2018.0,Kerrostalo,False,False,Lintuviidankatu
+308,Janka,Lastaajankatu 4,144000.0,51.0,1994.0,Kerrostalo,False,False,Lastaajankatu
+309,Amuri,Satakunnankatu 63,229000.0,67.0,1941.0,Kerrostalo,False,False,Satakunnankatu
+310,Ryydynpohja,Kukkolankatu 23 B,164000.0,64.0,1976.0,Rivitalo,False,False,Kukkolankatu
+311,Hervanta,Insinöörinkatu 47,115000.0,46.0,2001.0,Kerrostalo,False,False,Insinöörinkatu
+312,Pyynikki,F.E. Sillanpään katu 2,285000.0,59.5,2010.0,Kerrostalo,False,False,F.E.
+313,Annala,Suopellonkatu 5,127000.0,48.0,1991.0,Rivitalo,True,False,Suopellonkatu
+314,Hatanpää,Hatanpään Puistokuja 27 B100,199000.0,38.5,2019.0,Kerrostalo,False,False,Hatanpään
+315,Haukiluoma,Runkokatu 17,129000.0,63.0,1986.0,Rivitalo,False,False,Runkokatu
+316,Härmälänranta,Niilo Härmälän katu 13 A 37,223900.0,53.5,2021.0,Kerrostalo,True,False,Niilo
+317,Ratina,Ratinankatu 8,224000.0,45.5,2011.0,Kerrostalo,False,False,Ratinankatu
+318,Hervanta,Opiskelijankatu 38 B,75000.0,48.0,1977.0,Kerrostalo,False,False,Opiskelijankatu
+319,Järvensivu,Turjankatu 6-8,159000.0,56.0,1962.0,Kerrostalo,False,True,Turjankatu
+320,Pyynikki,Pirkankatu 16 A 43,305000.0,42.5,2020.0,Kerrostalo,True,False,Pirkankatu
+321,Pyynikki,Pirkankatu 16 B 47,419000.0,52.0,2020.0,Kerrostalo,False,False,Pirkankatu
+322,Pyynikki,Pirkankatu 16 B 50,325000.0,43.5,2020.0,Kerrostalo,False,False,Pirkankatu
+323,Pyynikki,Pirkankatu 16,395000.0,48.0,2020.0,Kerrostalo,True,False,Pirkankatu
+324,Pyynikki,Pirkankatu 16 B 49,418000.0,56.5,2020.0,Kerrostalo,False,False,Pirkankatu
+325,Pyynikki,Ammattikoulunkatu 10,162000.0,39.0,1924.0,Kerrostalo,False,False,Ammattikoulunkatu
+326,Kaukajärvi,Solkikatu 12,138000.0,47.5,2007.0,Kerrostalo,False,False,Solkikatu
+327,Santalahti,Rantatie 27 A34,227000.0,48.0,2021.0,Kerrostalo,True,False,Rantatie
+328,Santalahti,Rantatie 27 A33,215000.0,41.5,2021.0,Kerrostalo,False,False,Rantatie
+329,Santalahti,Rantatie 27 A31,189000.0,39.5,2021.0,Kerrostalo,False,False,Rantatie
+330,Santalahti,Rantatie 27 A30,194000.0,33.0,2021.0,Kerrostalo,False,False,Rantatie
+331,Santalahti,Rantatie 27 A29,191000.0,33.0,2021.0,Kerrostalo,False,False,Rantatie
+332,Santalahti,Rantatie 27 A25,203000.0,42.0,2021.0,Kerrostalo,False,False,Rantatie
+333,Santalahti,Rantatie 27 A23,175000.0,39.5,2021.0,Kerrostalo,False,False,Rantatie
+334,Santalahti,Rantatie 27 A21,181000.0,33.0,2021.0,Kerrostalo,False,False,Rantatie
+335,Santalahti,Rantatie 27 A18,212000.0,48.0,2021.0,Kerrostalo,True,False,Rantatie
+336,Santalahti,Rantatie 27 A17,199000.0,42.0,2021.0,Kerrostalo,False,False,Rantatie
+337,Santalahti,Rantatie 27 A14,175000.0,33.0,2021.0,Kerrostalo,False,False,Rantatie
+338,Santalahti,Rantatie 27 A13,175000.0,33.0,2021.0,Kerrostalo,False,False,Rantatie
+339,Keskusta,Satakunnankatu 9,175000.0,44.5,1946.0,Kerrostalo,False,False,Satakunnankatu
+340,Santalahti,Rantatie 27 A10,208000.0,48.0,2021.0,Kerrostalo,True,False,Rantatie
+341,Santalahti,Rantatie 27 A9,195000.0,42.0,2021.0,Kerrostalo,False,False,Rantatie
+342,Santalahti,Rantatie 27 A6,169000.0,33.0,2021.0,Kerrostalo,False,False,Rantatie
+343,Santalahti,Rantatie 27 A7,169000.0,33.0,2021.0,Kerrostalo,False,False,Rantatie
+344,Santalahti,Rantatie 27 A2,185000.0,45.5,2021.0,Kerrostalo,False,False,Rantatie
+345,Santalahti,Rantatie 27 A3,199000.0,48.0,2021.0,Kerrostalo,True,False,Rantatie
+346,Pispala,Erämiehenkatu 12,130000.0,34.0,1930.0,Rivitalo,False,False,Erämiehenkatu
+347,Ranta-Tampella,Ranta-Tampellan katu 21 A47,263000.0,47.5,2021.0,Kerrostalo,False,False,Ranta-Tampellan
+348,Ranta-Tampella,Ranta-Tampellan katu 21 A46,295000.0,54.5,2021.0,Kerrostalo,True,False,Ranta-Tampellan
+349,Ranta-Tampella,Ranta-Tampellan katu 21 A50,305000.0,54.5,2021.0,Kerrostalo,True,False,Ranta-Tampellan
+350,Ranta-Tampella,Ranta-Tampellan katu 21 A43,253000.0,47.5,2021.0,Kerrostalo,False,False,Ranta-Tampellan
+351,Ranta-Tampella,Ranta-Tampellan katu 21 A38,243000.0,47.5,2021.0,Kerrostalo,False,False,Ranta-Tampellan
+352,Ranta-Tampella,Ranta-Tampellan katu 21 A33,233000.0,47.5,2021.0,Kerrostalo,False,False,Ranta-Tampellan
+353,Ranta-Tampella,Ranta-Tampellan katu 21 A28,223000.0,47.5,2021.0,Kerrostalo,False,False,Ranta-Tampellan
+354,Ranta-Tampella,Ranta-Tampellan katu 21 A32,269000.0,54.5,2021.0,Kerrostalo,True,False,Ranta-Tampellan
+355,Ranta-Tampella,Ranta-Tampellan katu 21 A37,277000.0,54.5,2021.0,Kerrostalo,True,False,Ranta-Tampellan
+356,Ranta-Tampella,Ranta-Tampellan katu 21 A42,285000.0,54.5,2021.0,Kerrostalo,True,False,Ranta-Tampellan
+357,Ranta-Tampella,Ranta-Tampellan katu 21 A27,256000.0,54.5,2021.0,Kerrostalo,True,False,Ranta-Tampellan
+358,Ranta-Tampella,Ranta-Tampellan katu 21 A10,239000.0,45.5,2021.0,Kerrostalo,True,False,Ranta-Tampellan
+359,Ranta-Tampella,Ranta-Tampellan katu 21 A13,200000.0,47.5,2021.0,Kerrostalo,True,False,Ranta-Tampellan
+360,Ranta-Tampella,Ranta-Tampellan katu 21 A22,210000.0,47.5,2021.0,Kerrostalo,True,False,Ranta-Tampellan
+361,Ranta-Tampella,Ranta-Tampellan katu 21 A18,318000.0,57.5,2021.0,Kerrostalo,True,False,Ranta-Tampellan
+362,Ranta-Tampella,Ranta-Tampellan katu 21 A19,250000.0,45.5,2021.0,Kerrostalo,True,False,Ranta-Tampellan
+363,Ranta-Tampella,Ranta-Tampellan katu 21 A6,227000.0,38.0,2021.0,Kerrostalo,True,False,Ranta-Tampellan
+364,Ranta-Tampella,Ranta-Tampellan katu 21 A15,232000.0,38.0,2021.0,Kerrostalo,True,False,Ranta-Tampellan
+365,Ranta-Tampella,Ranta-Tampellan katu 21 A23,280000.0,48.0,2021.0,Kerrostalo,False,False,Ranta-Tampellan
+366,Ranta-Tampella,Ranta-Tampellan katu 21 A14,315000.0,57.0,2021.0,Kerrostalo,True,False,Ranta-Tampellan
+367,Ranta-Tampella,Ranta-Tampellan katu 21 A9,308000.0,57.5,2021.0,Kerrostalo,True,False,Ranta-Tampellan
+368,Ranta-Tampella,Ranta-Tampellan katu 21 A4,240000.0,48.5,2021.0,Kerrostalo,False,False,Ranta-Tampellan
+369,Ranta-Tampella,Ranta-Tampellan katu 21 A21,208000.0,48.0,2021.0,Kerrostalo,False,False,Ranta-Tampellan
+370,Ranta-Tampella,Ranta-Tampellan katu 21 A12,203000.0,48.0,2021.0,Kerrostalo,False,False,Ranta-Tampellan
+371,Ranta-Tampella,Ranta-Tampellan katu 21 A17,228000.0,36.5,2021.0,Kerrostalo,True,False,Ranta-Tampellan
+372,Ranta-Tampella,Ranta-Tampellan katu 21 A25,233000.0,36.5,2021.0,Kerrostalo,True,False,Ranta-Tampellan
+373,Ranta-Tampella,Ranta-Tampellan katu 21 A3,200000.0,36.5,2021.0,Kerrostalo,True,False,Ranta-Tampellan
+374,Ranta-Tampella,Ranta-Tampellan katu 21 A8,223000.0,36.5,2021.0,Kerrostalo,True,False,Ranta-Tampellan
+375,Ranta-Tampella,Ranta-Tampellan katu 21 A11,250000.0,52.5,2021.0,Kerrostalo,True,False,Ranta-Tampellan
+376,Ranta-Tampella,Ranta-Tampellan katu 21 A2,238000.0,44.0,2021.0,Kerrostalo,False,False,Ranta-Tampellan
+377,Ranta-Tampella,Ranta-Tampellan katu 21 A7,253000.0,44.0,2021.0,Kerrostalo,False,False,Ranta-Tampellan
+378,Ranta-Tampella,Ranta-Tampellan katu 21 A20,270000.0,52.5,2021.0,Kerrostalo,True,False,Ranta-Tampellan
+379,Ranta-Tampella,Ranta-Tampellan katu 21 A16,263000.0,44.0,2021.0,Kerrostalo,False,False,Ranta-Tampellan
+380,Ranta-Tampella,Ranta-Tampellan katu 21 A1,250000.0,52.5,2021.0,Kerrostalo,True,False,Ranta-Tampellan
+381,Vuores,Koukkurannankatu 6,138000.0,37.0,2015.0,Kerrostalo,False,False,Koukkurannankatu
+382,Kaukajärvi,Saarenvainionkatu 11 D,86000.0,43.0,1970.0,Kerrostalo,False,False,Saarenvainionkatu
+383,Linnainmaa,Piettasenkatu 42 A,135000.0,47.0,1995.0,Kerrostalo,False,False,Piettasenkatu
+384,Lielahti,Teivaalantie 5 a A 50,220400.0,51.5,2020.0,Kerrostalo,True,False,Teivaalantie
+385,Lappi,Käpytie 8 B,182000.0,54.5,2007.0,Kerrostalo,False,False,Käpytie
+386,Hämeenpuisto,Hämeenpuisto 11,360000.0,89.0,1981.0,Kerrostalo,True,False,Hämeenpuisto
+387,Tammela,Tammelan puistokatu 31 B 176,248000.0,33.5,2022.0,Kerrostalo,False,False,Tammelan
+388,Tammela,Tammelan puistokatu 31 B 168,243000.0,33.5,2022.0,Kerrostalo,False,False,Tammelan
+389,Tammela,Tammelan puistokatu 31 B 169,267000.0,41.5,2022.0,Kerrostalo,False,False,Tammelan
+390,Tammela,Tammelan puistokatu 31 B 144,229000.0,33.0,2022.0,Kerrostalo,False,False,Tammelan
+391,Tammela,Tammelan puistokatu 31 B 177,272000.0,41.5,2022.0,Kerrostalo,False,False,Tammelan
+392,Tammela,Tammelan puistokatu 31 B 162,366000.0,58.5,2022.0,Kerrostalo,False,False,Tammelan
+393,Tammela,Tammelan puistokatu 31 B 132,226000.0,33.0,2022.0,Kerrostalo,False,False,Tammelan
+394,Tammela,Tammelan puistokatu 31 B 165,238000.0,34.0,2022.0,Kerrostalo,False,False,Tammelan
+395,Tammela,Tammelan puistokatu 31 B 157,239000.0,33.5,2022.0,Kerrostalo,False,False,Tammelan
+396,Tammela,Tammelan puistokatu 31 B 145,236000.0,33.5,2022.0,Kerrostalo,False,False,Tammelan
+397,Tammela,Tammelan puistokatu 31 B 110,260000.0,40.5,2022.0,Kerrostalo,False,False,Tammelan
+398,Tammela,Tammelan puistokatu 31 B 128,458000.0,66.5,2022.0,Kerrostalo,False,False,Tammelan
+399,Tammela,Tammelan puistokatu 31 B 116,439000.0,66.5,2022.0,Kerrostalo,False,False,Tammelan
+400,Tammela,Tammelan puistokatu 31 B 107,419000.0,66.5,2022.0,Kerrostalo,False,False,Tammelan
+401,Tammela,Tammelan puistokatu 31 B 150,360000.0,58.5,2022.0,Kerrostalo,False,False,Tammelan
+402,Tammela,Tammelan puistokatu 31 B 126,349000.0,58.5,2022.0,Kerrostalo,False,False,Tammelan
+403,Tammela,Tammelan puistokatu 31 B 114,345000.0,58.5,2022.0,Kerrostalo,False,False,Tammelan
+404,Tammela,Tammelan puistokatu 31 B 105,334000.0,58.5,2022.0,Kerrostalo,False,False,Tammelan
+405,Keskusta,Itsenäisyydenkatu 3,319000.0,55.5,2018.0,Kerrostalo,False,False,Itsenäisyydenkatu
+406,Hervanta,Fysiikanpolku 4 B,99000.0,59.0,1980.0,Kerrostalo,False,False,Fysiikanpolku
+407,Vuores,Tervaskatu 4B B49,188900.0,40.5,2021.0,Kerrostalo,True,False,Tervaskatu
+408,Vuores,Tervaskatu 4B B49,149900.0,35.5,2021.0,Kerrostalo,False,False,Tervaskatu
+409,Tammela,Kullervonkatu 23,262000.0,52.5,2006.0,Kerrostalo,True,False,Kullervonkatu
+410,Annala,Kallioportinkatu 3,97000.0,41.0,1988.0,Kerrostalo,False,False,Kallioportinkatu
+411,Kaukajärvi,Suopursunkatu 10,145000.0,49.0,2011.0,Luhtitalo,False,False,Suopursunkatu
+412,Hyhky,Pispalan valtatie 56,129000.0,50.5,1960.0,Kerrostalo,False,False,Pispalan
+413,Keskusta,Satamakatu 18,225000.0,54.0,1967.0,Kerrostalo,False,False,Satamakatu
+414,Hyhky,Pispalan valtatie 56,129000.0,50.5,1960.0,Luhtitalo,False,False,Pispalan
+415,Hervanta,Tietoraitti 8,167000.0,40.5,2018.0,Kerrostalo,False,False,Tietoraitti
+416,Hakametsä,Harankatu 13 B36,207900.0,55.5,2014.0,Kerrostalo,True,False,Harankatu
+417,Keskusta,Näsilinnankatu 15 C,209000.0,53.0,1962.0,Kerrostalo,False,False,Näsilinnankatu
+418,Halkoniemi,Männistönkatu 3 B,179900.0,45.0,2019.0,Kerrostalo,False,False,Männistönkatu
+419,Keskusta,Kansikatu 1 B93,421950.0,56.0,2022.0,Kerrostalo,False,False,Kansikatu
+420,Keskusta,Kansikatu 1 B114,477120.0,64.0,2022.0,Kerrostalo,False,False,Kansikatu
+421,Ranta-Tampella,Ranta-Tampellan katu 5,229000.0,36.0,2018.0,Kerrostalo,False,False,Ranta-Tampellan
+422,Kaukajärvi,Saarenvainionkatu 15 D,103000.0,55.5,1972.0,Kerrostalo,False,False,Saarenvainionkatu
+423,Niemenranta,Federleynkatu 8 A 23,176300.0,43.0,2020.0,Kerrostalo,False,False,Federleynkatu
+424,Tammela,Pohjolankatu 32 B,177000.0,60.0,1990.0,Kerrostalo,False,False,Pohjolankatu
+425,Peltolammi,Ketunleivänkatu 4,113000.0,53.0,1991.0,Kerrostalo,False,False,Ketunleivänkatu
+426,Keskusta,Kansikatu 8 A 36,205260.0,44.0,2020.0,Kerrostalo,False,False,Kansikatu
+427,Keskusta,Kansikatu 8 A 46,202460.0,43.5,2020.0,Kerrostalo,False,False,Kansikatu
+428,Kaukajärvi,Hikivuorenkatu 21,119000.0,45.0,1993.0,Kerrostalo,True,False,Hikivuorenkatu
+429,Nekala,Muotialantie 11,217000.0,69.0,1947.0,Omakotitalo,False,False,Muotialantie
+430,Linnainmaa,Piettasenkatu 42,134000.0,63.0,1995.0,Kerrostalo,True,False,Piettasenkatu
+431,Multisilta,Multiojankatu 32 H,69000.0,54.0,1976.0,Kerrostalo,False,False,Multiojankatu
+432,Peltolammi,Pähkinämäenkatu 6,78000.0,48.5,1969.0,Kerrostalo,False,False,Pähkinämäenkatu
+433,Takahuhti,Irjalankatu 54,105000.0,56.0,1982.0,Kerrostalo,False,False,Irjalankatu
+434,Annala,Hikivuorenkatu 14,76000.0,57.5,1978.0,Kerrostalo,False,False,Hikivuorenkatu
+435,Lentävänniemi,Lielahdenkatu 33,111789.0,57.0,1973.0,Kerrostalo,False,False,Lielahdenkatu
+436,Ranta-Tampella,Koelaitoksenkatu 2,219000.0,37.5,2018.0,Kerrostalo,False,False,Koelaitoksenkatu
+437,Niemenranta,Raamikatu 19 A 43,186200.0,36.0,2021.0,Kerrostalo,False,False,Raamikatu
+438,Niemenranta,Raamikatu 19 A 42,217800.0,52.0,2021.0,Kerrostalo,True,False,Raamikatu
+439,Niemenranta,Raamikatu 19 A 41,199200.0,44.5,2021.0,Kerrostalo,False,False,Raamikatu
+440,Niemenranta,Raamikatu 19 A 36,208800.0,52.0,2021.0,Kerrostalo,True,False,Raamikatu
+441,Niemenranta,Raamikatu 19 A 37,178500.0,36.0,2021.0,Kerrostalo,False,False,Raamikatu
+442,Niemenranta,Raamikatu 19 A 35,192800.0,44.5,2021.0,Kerrostalo,False,False,Raamikatu
+443,Niemenranta,Raamikatu 19 A 31,170400.0,36.0,2021.0,Kerrostalo,False,False,Raamikatu
+444,Niemenranta,Raamikatu 19 A 29,187800.0,44.5,2021.0,Kerrostalo,False,False,Raamikatu
+445,Niemenranta,Raamikatu 19 A 30,199300.0,52.0,2021.0,Kerrostalo,True,False,Raamikatu
+446,Niemenranta,Raamikatu 19 A 23,182800.0,44.5,2021.0,Kerrostalo,False,False,Raamikatu
+447,Niemenranta,Raamikatu 19 A 25,165800.0,36.0,2021.0,Kerrostalo,False,False,Raamikatu
+448,Niemenranta,Raamikatu 19 A 24,194000.0,52.0,2021.0,Kerrostalo,True,False,Raamikatu
+449,Niemenranta,Raamikatu 19 A 19,161300.0,36.0,2021.0,Kerrostalo,False,False,Raamikatu
+450,Niemenranta,Raamikatu 19 A 17,177700.0,44.5,2021.0,Kerrostalo,False,False,Raamikatu
+451,Niemenranta,Raamikatu 19 A 18,188600.0,52.0,2021.0,Kerrostalo,True,False,Raamikatu
+452,Niemenranta,Raamikatu 19 A 13,152000.0,36.0,2021.0,Kerrostalo,False,False,Raamikatu
+453,Niemenranta,Raamikatu 19 A 12,177800.0,52.0,2021.0,Kerrostalo,True,False,Raamikatu
+454,Niemenranta,Raamikatu 19 A 11,172700.0,44.5,2021.0,Kerrostalo,False,False,Raamikatu
+455,Niemenranta,Raamikatu 19 A 7,147600.0,36.0,2021.0,Kerrostalo,False,False,Raamikatu
+456,Niemenranta,Raamikatu 19 A 6,172600.0,52.0,2021.0,Kerrostalo,True,False,Raamikatu
+457,Niemenranta,Raamikatu 19 A 5,167700.0,44.5,2021.0,Kerrostalo,False,False,Raamikatu
+458,Niemenranta,Raamikatu 19 A 1,162500.0,37.0,2021.0,Kerrostalo,True,False,Raamikatu
+459,Niemenranta,Raamikatu 19 A 2,215100.0,52.5,2021.0,Kerrostalo,True,False,Raamikatu
+460,Pyynikki,Pyynikintie 3,145000.0,42.5,1920.0,Kerrostalo,False,False,Pyynikintie
+461,Koivistonkylä,Sulkavuorenkatu 14,189000.0,45.0,,Omakotitalo,False,False,Sulkavuorenkatu
+462,Keskusta,Hämeenkatu 3 C 34 d,319332.0,51.5,2020.0,Kerrostalo,False,False,Hämeenkatu
+463,Ranta-Tampella,Koelaitoksenkatu 4 A 67,251800.0,36.0,2020.0,Kerrostalo,False,False,Koelaitoksenkatu
+464,Niemenranta,Federleynkatu 8 A 17,166500.0,40.5,2020.0,Kerrostalo,False,False,Federleynkatu
+465,Ruotula,Toukomaankuja 5,155000.0,59.5,1989.0,Kerrostalo,False,False,Toukomaankuja
+466,Amuri,Sotkankatu 16 C ,218000.0,59.2,1953.0,Kerrostalo,False,True,Sotkankatu
+467,Multisilta,Multisillankatu 9 G,71000.0,56.0,1978.0,Kerrostalo,False,False,Multisillankatu
+468,Härmälänranta,Niilo Härmälän katu 13 A 55,279600.0,62.5,2021.0,Kerrostalo,True,False,Niilo
+469,Lielahti,Teivaalantie 5 a A 11,157200.0,35.5,2020.0,Kerrostalo,False,False,Teivaalantie
+470,Tammela,Pohjankulma 4,224000.0,57.5,1980.0,Kerrostalo,False,False,Pohjankulma
+471,Tesoma,Tesomankuja 1,124800.0,30.5,2018.0,Kerrostalo,False,True,Tesomankuja
+472,Keskusta,Näsilinnankatu 21,279000.0,50.0,2018.0,Kerrostalo,True,False,Näsilinnankatu
+473,Tesoma,Tesomankuja 1,139900.0,38.0,2018.0,Kerrostalo,False,False,Tesomankuja
+474,Messukylä,Messukylänkatu 30 A23,335000.0,69.5,2020.0,Kerrostalo,True,True,Messukylänkatu
+475,Lentävänniemi,Lielahdenkatu 39,119000.0,57.5,1977.0,Kerrostalo,False,False,Lielahdenkatu
+476,Ranta-Tampella,Ranta-Tampellan katu 15,195000.0,36.5,2019.0,Kerrostalo,False,False,Ranta-Tampellan
+477,Tammela,Pinninkatu 14,209000.0,55.5,1967.0,Kerrostalo,False,False,Pinninkatu
+478,Keskusta,Kansikatu 8 B 202,328290.0,53.5,2020.0,Kerrostalo,True,False,Kansikatu
+479,Ranta-Tampella,Tampellan esplanadi 19 A 12,262760.0,36.0,2020.0,Kerrostalo,False,False,Tampellan
+480,Ranta-Tampella,Tampellan esplanadi 19 A 48,323840.0,44.0,2020.0,Kerrostalo,False,False,Tampellan
+481,Messukylä,Messukylänkatu 30 A31,344000.0,69.5,2020.0,Kerrostalo,True,True,Messukylänkatu
+482,Keskusta,Hämeenkatu 3 C 34 g,332748.0,51.0,2020.0,Kerrostalo,False,True,Hämeenkatu
+483,Hakametsä,Harankatu 9,213000.0,55.5,2017.0,Kerrostalo,False,False,Harankatu
+484,Härmälänranta,Niilo Härmälän katu 13 A 38,219600.0,52.5,2021.0,Kerrostalo,True,False,Niilo
+485,Keskusta,Hämeenkatu 3 D 50 d,343539.0,58.5,2020.0,Kerrostalo,False,False,Hämeenkatu
+486,Pappila,Eetunkatu 11,155000.0,59.5,2002.0,Kerrostalo,False,False,Eetunkatu
+487,Härmälä,Tuomaankatu 3 B,100000.0,59.0,1937.0,Kerrostalo,False,False,Tuomaankatu
+488,Hyhky,Pättiniemenkatu 19,124800.0,47.5,1983.0,Rivitalo,True,False,Pättiniemenkatu
+489,Keskusta,Kansikatu 1 B110,451070.0,56.0,2022.0,Kerrostalo,False,False,Kansikatu
+490,Keskusta,Kansikatu 1 B105,626790.0,64.5,2022.0,Kerrostalo,True,False,Kansikatu
+491,Keskusta,Kansikatu 1 B108,317230.0,40.0,2022.0,Kerrostalo,False,False,Kansikatu
+492,Keskusta,Kansikatu 1 B102,436760.0,56.0,2022.0,Kerrostalo,False,False,Kansikatu
+493,Keskusta,Kansikatu 1 B101,301910.0,36.5,2022.0,Kerrostalo,False,False,Kansikatu
+494,Keskusta,Kansikatu 1 B100,305480.0,40.0,2022.0,Kerrostalo,False,False,Kansikatu
+495,Keskusta,Kansikatu 1 B96,356560.0,43.5,2022.0,Kerrostalo,False,False,Kansikatu
+496,Keskusta,Kansikatu 1 B91,293220.0,40.0,2022.0,Kerrostalo,False,False,Kansikatu
+497,Keskusta,Kansikatu 1 B86,340730.0,48.0,2022.0,Kerrostalo,False,False,Kansikatu
+498,Keskusta,Kansikatu 1 B87,351460.0,43.5,2022.0,Kerrostalo,False,False,Kansikatu
+499,Keskusta,Kansikatu 1 B84,412760.0,56.0,2022.0,Kerrostalo,False,False,Kansikatu
+500,Keskusta,Kansikatu 1 B83,287600.0,36.5,2022.0,Kerrostalo,False,False,Kansikatu
+501,Keskusta,Kansikatu 1 B82,281470.0,40.0,2022.0,Kerrostalo,False,False,Kansikatu
+502,Keskusta,Kansikatu 1 B77,333070.0,48.0,2022.0,Kerrostalo,False,False,Kansikatu
+503,Keskusta,Kansikatu 1 B78,346860.0,43.5,2022.0,Kerrostalo,False,False,Kansikatu
+504,Keskusta,Kansikatu 1 B75,399980.0,56.0,2022.0,Kerrostalo,False,False,Kansikatu
+505,Keskusta,Kansikatu 1 B74,277390.0,36.5,2022.0,Kerrostalo,False,False,Kansikatu
+506,Keskusta,Kansikatu 1 B73,270230.0,40.0,2022.0,Kerrostalo,False,False,Kansikatu
+507,Keskusta,Kansikatu 1 B68,299860.0,48.5,2022.0,Kerrostalo,False,False,Kansikatu
+508,Keskusta,Kansikatu 1 C155,342260.0,43.5,2022.0,Kerrostalo,False,False,Kansikatu
+509,Keskusta,Kansikatu 1 C154,378530.0,51.0,2022.0,Kerrostalo,False,False,Kansikatu
+510,Keskusta,Kansikatu 1 B66,388750.0,56.0,2022.0,Kerrostalo,False,False,Kansikatu
+511,Keskusta,Kansikatu 1 B65,271770.0,36.5,2022.0,Kerrostalo,False,False,Kansikatu
+512,Keskusta,Kansikatu 1 B64,265640.0,40.0,2022.0,Kerrostalo,False,False,Kansikatu
+513,Keskusta,Kansikatu 1 B62,363720.0,64.5,2022.0,Kerrostalo,False,False,Kansikatu
+514,Keskusta,Kansikatu 1 B61,382110.0,51.0,2022.0,Kerrostalo,False,False,Kansikatu
+515,Keskusta,Kansikatu 1 C147,372910.0,51.0,2022.0,Kerrostalo,False,False,Kansikatu
+516,Keskusta,Kansikatu 1 C150,362180.0,50.5,2022.0,Kerrostalo,False,False,Kansikatu
+517,Keskusta,Kansikatu 1 C149,500110.0,65.0,2022.0,Kerrostalo,False,False,Kansikatu
+518,Keskusta,Kansikatu 1 B55,377510.0,56.0,2022.0,Kerrostalo,False,False,Kansikatu
+519,Keskusta,Kansikatu 1 B54,265640.0,36.5,2022.0,Kerrostalo,False,False,Kansikatu
+520,Keskusta,Kansikatu 1 B53,260020.0,40.0,2022.0,Kerrostalo,False,False,Kansikatu
+521,Keskusta,Kansikatu 1 B51,360140.0,64.5,2022.0,Kerrostalo,False,False,Kansikatu
+522,Keskusta,Kansikatu 1 B50,375980.0,51.5,2022.0,Kerrostalo,False,False,Kansikatu
+523,Keskusta,Kansikatu 1 C143,357590.0,50.5,2022.0,Kerrostalo,False,False,Kansikatu
+524,Keskusta,Kansikatu 1 C142,490400.0,65.0,2022.0,Kerrostalo,False,False,Kansikatu
+525,Keskusta,Kansikatu 1 C141,332040.0,43.5,2022.0,Kerrostalo,False,False,Kansikatu
+526,Keskusta,Kansikatu 1 C140,366780.0,51.0,2022.0,Kerrostalo,False,False,Kansikatu
+527,Keskusta,Kansikatu 1 B44,366780.0,56.0,2022.0,Kerrostalo,False,False,Kansikatu
+528,Keskusta,Kansikatu 1 B43,260530.0,36.5,2022.0,Kerrostalo,False,False,Kansikatu
+529,Keskusta,Kansikatu 1 B42,256440.0,40.0,2022.0,Kerrostalo,False,False,Kansikatu
+530,Keskusta,Kansikatu 1 B39,370360.0,51.5,2022.0,Kerrostalo,False,False,Kansikatu
+531,Keskusta,Kansikatu 1 B40,357070.0,64.5,2022.0,Kerrostalo,False,False,Kansikatu
+532,Keskusta,Kansikatu 1 C136,352480.0,50.5,2022.0,Kerrostalo,False,False,Kansikatu
+533,Keskusta,Kansikatu 1 C135,480180.0,65.0,2022.0,Kerrostalo,False,False,Kansikatu
+534,Keskusta,Kansikatu 1 C133,361160.0,51.0,2022.0,Kerrostalo,False,False,Kansikatu
+535,Keskusta,Kansikatu 1 B33,355540.0,56.0,2022.0,Kerrostalo,False,False,Kansikatu
+536,Keskusta,Kansikatu 1 B31,251840.0,40.0,2022.0,Kerrostalo,False,False,Kansikatu
+537,Keskusta,Kansikatu 1 B29,354010.0,64.5,2022.0,Kerrostalo,False,False,Kansikatu
+538,Keskusta,Kansikatu 1 B28,364740.0,51.5,2022.0,Kerrostalo,False,False,Kansikatu
+539,Keskusta,Kansikatu 1 C127,322340.0,43.5,2022.0,Kerrostalo,False,False,Kansikatu
+540,Keskusta,Kansikatu 1 C129,347370.0,50.5,2022.0,Kerrostalo,False,False,Kansikatu
+541,Keskusta,Kansikatu 1 C128,469970.0,65.0,2022.0,Kerrostalo,False,False,Kansikatu
+542,Keskusta,Kansikatu 1 C126,355540.0,51.0,2022.0,Kerrostalo,False,False,Kansikatu
+543,Keskusta,Kansikatu 1 B22,340730.0,56.0,2022.0,Kerrostalo,False,False,Kansikatu
+544,Keskusta,Kansikatu 1 B20,247250.0,40.0,2022.0,Kerrostalo,False,False,Kansikatu
+545,Keskusta,Kansikatu 1 B17,358610.0,51.5,2022.0,Kerrostalo,False,False,Kansikatu
+546,Keskusta,Kansikatu 1 C121,463330.0,65.0,2022.0,Kerrostalo,False,False,Kansikatu
+547,Keskusta,Kansikatu 1 C122,342260.0,50.5,2022.0,Kerrostalo,False,False,Kansikatu
+548,Keskusta,Kansikatu 1 B18,350430.0,64.5,2022.0,Kerrostalo,False,False,Kansikatu
+549,Keskusta,Kansikatu 1 C120,265130.0,37.0,2022.0,Kerrostalo,False,False,Kansikatu
+550,Peltolammi,Tammikuja 4,113000.0,55.0,1970.0,Kerrostalo,False,False,Tammikuja
+551,Halkoniemi,Halkoniemenkuja 4,179000.0,40.5,2018.0,Kerrostalo,False,False,Halkoniemenkuja
+552,Santalahti,Rantatie 37 C 72,194700.0,38.0,2019.0,Kerrostalo,False,False,Rantatie
+553,Hatanpää,Hatanpään Puistokuja 27 B88,209000.0,39.0,2019.0,Kerrostalo,False,False,Hatanpään
+554,Annala,Alasenkatu 5,109000.0,60.5,1976.0,Kerrostalo,False,False,Alasenkatu
+555,Vuores,Isokuusenkatu 47 A 21,157890.0,43.5,2020.0,Kerrostalo,False,False,Isokuusenkatu
+556,Vuores,Tervaskatu 4 B,164907.0,40.5,2021.0,Kerrostalo,False,False,Tervaskatu
+557,Vuores,Tervaskatu 4 B,124392.0,32.0,2021.0,Kerrostalo,False,False,Tervaskatu
+558,Kaleva,Sarvijaakonkatu 1 A A 11,249981.0,51.0,2020.0,Kerrostalo,False,False,Sarvijaakonkatu
+559,Ranta-Tampella,Tampellan esplanadi 19 A 54,331120.0,44.0,2020.0,Kerrostalo,False,False,Tampellan
+560,Ranta-Tampella,Tampellan esplanadi 19 A 01,360200.0,47.5,2020.0,Kerrostalo,False,False,Tampellan
+561,Ranta-Tampella,Ranta-Tampellan katu 9,199000.0,29.0,2019.0,Kerrostalo,False,False,Ranta-Tampellan
+562,Amuri,Satakunnankatu 63,239000.0,67.0,1940.0,Kerrostalo,False,False,Satakunnankatu
+563,Keskusta,Puutarhakatu 17,298000.0,47.5,2018.0,Kerrostalo,False,False,Puutarhakatu
+564,Härmälänranta,Lentovarikonkatu 16,193000.0,55.5,2011.0,Kerrostalo,True,False,Lentovarikonkatu
+565,Keskusta,Kansikatu 8 B 74,182210.0,38.0,2020.0,Kerrostalo,False,False,Kansikatu
+566,Pyynikki,Pyhäranta 4 B 59,220160.0,55.5,2020.0,Kerrostalo,False,False,Pyhäranta
+567,Keskusta,Sorinsilta 4 A 43,310670.0,43.5,2021.0,Kerrostalo,False,False,Sorinsilta
+568,Keskusta,Hämeenkatu 3 C 34 b,337456.0,55.5,2020.0,Kerrostalo,False,False,Hämeenkatu
+569,Keskusta,Hämeenkatu 3 D 50 g,347757.0,56.5,2020.0,Kerrostalo,False,False,Hämeenkatu
+570,Villilä,Auttilankatu 4,123000.0,38.5,2014.0,Kerrostalo,False,False,Auttilankatu
+571,Multisilta,Multisillankatu 5 B,89900.0,56.5,1972.0,Kerrostalo,False,False,Multisillankatu
+572,Epilä,Pispalan valtatie 106,139000.0,50.5,1987.0,Kerrostalo,False,False,Pispalan
+573,Linnainmaa,Linnainmaanraitti 18,100000.0,62.0,1985.0,Kerrostalo,True,False,Linnainmaanraitti
+574,Haukiluoma,Lehtikatu 4,110000.0,61.0,1985.0,Rivitalo,False,False,Lehtikatu
+575,Hervanta,Virtainpolku 13,94000.0,54.0,1976.0,Kerrostalo,False,False,Virtainpolku
+576,Kaukajärvi,Muinaishaudankatu 5 B 61,99990.0,50.5,1968.0,Kerrostalo,False,False,Muinaishaudankatu
+577,Haapalinna,Aapelinraitti 3,145000.0,61.0,1996.0,Kerrostalo,True,True,Aapelinraitti
+578,Hervanta,Arkkitehdinkatu 20 b,95000.0,63.0,1984.0,Kerrostalo,False,True,Arkkitehdinkatu
+579,Haapalinna,Aapelinraitti 3,142000.0,61.0,1996.0,Kerrostalo,True,False,Aapelinraitti
+580,Santalahti,Tiporaitti 9 E145,194700.0,36.5,2019.0,Kerrostalo,False,False,Tiporaitti
+581,Santalahti,Tiporaitti 9 E136,188900.0,36.5,2019.0,Kerrostalo,False,False,Tiporaitti
+582,Keskusta,Kansikatu 8 A 35,200900.0,43.5,2020.0,Kerrostalo,False,False,Kansikatu
+583,Haapalinna,Kraatarinkatu 15,139000.0,58.5,1985.0,Kerrostalo,True,False,Kraatarinkatu
+584,Santalahti,Tiporaitti 9 E125,183500.0,36.5,2019.0,Kerrostalo,False,False,Tiporaitti
+585,Ranta-Tampella,Tampellan esplanadi 19 A,313180.0,44.0,2020.0,Kerrostalo,False,False,Tampellan
+586,Ranta-Tampella,Tampellan esplanadi 19 A,269060.0,36.0,2020.0,Kerrostalo,False,False,Tampellan
+587,Niemenranta,Meesakatu 3,215000.0,55.0,2017.0,Kerrostalo,True,False,Meesakatu
+588,Lielahti,Teivaalantie 5 a A 24,164300.0,38.0,2020.0,Kerrostalo,False,False,Teivaalantie
+589,Tammela,Mäkipäänkatu 28-30,178000.0,49.0,1941.0,Kerrostalo,False,False,Mäkipäänkatu
+590,Härmälänranta,Vihurinkatu 11,219000.0,53.0,2017.0,Kerrostalo,True,False,Vihurinkatu
+591,Ranta-Tampella,Ranta-Tampellan katu 12 A 48,316500.0,45.0,2021.0,Kerrostalo,False,False,Ranta-Tampellan
+592,Ranta-Tampella,Ranta-Tampellan katu 12 A 47,441500.0,60.0,2021.0,Kerrostalo,False,False,Ranta-Tampellan
+593,Ranta-Tampella,Ranta-Tampellan katu 12 A 32,306600.0,45.0,2021.0,Kerrostalo,False,False,Ranta-Tampellan
+594,Ranta-Tampella,Ranta-Tampellan katu 12 A 25,286000.0,44.5,2021.0,Kerrostalo,False,False,Ranta-Tampellan
+595,Ranta-Tampella,Ranta-Tampellan katu 12 A 12,345900.0,60.0,2021.0,Kerrostalo,False,False,Ranta-Tampellan
+596,Keskusta,Kansikatu 8 B 209,336390.0,53.5,2020.0,Kerrostalo,True,False,Kansikatu
+597,Pyynikki,Pyhäranta 4 B 51,205270.0,55.5,2020.0,Kerrostalo,False,False,Pyhäranta
+598,Pyynikki,Pyhäranta 4 B 64,232390.0,56.0,2020.0,Kerrostalo,False,False,Pyhäranta
+599,Keskusta,Sorinsilta 4 A 56,314450.0,43.5,2021.0,Kerrostalo,False,False,Sorinsilta
+600,Ranta-Tampella,Tampellan esplanadi 19 A 39,276330.0,36.0,2020.0,Kerrostalo,False,False,Tampellan
+601,Santalahti,Tiporaitti 9 E154,209800.0,38.5,2019.0,Kerrostalo,False,False,Tiporaitti
+602,Santalahti,Tiporaitti 9 E151,228800.0,46.5,2019.0,Kerrostalo,False,False,Tiporaitti
+603,Ranta-Tampella,Ranta-Tampellan katu 12 A 11,259400.0,44.5,2021.0,Kerrostalo,False,False,Ranta-Tampellan
+604,Messukylä,Grönberginkatu 1,168000.0,60.0,1974.0,Rivitalo,False,False,Grönberginkatu
+605,Maisansalo,Koljonseläntie 7,59000.0,54.0,1975.0,Paritalo,False,False,Koljonseläntie
+606,Tohloppi,Pyydyspohjankatu 19 A,155000.0,56.5,1987.0,Rivitalo,False,False,Pyydyspohjankatu
+607,Nekala,Muotialantie 5,259000.0,65.0,1944.0,Omakotitalo,True,False,Muotialantie
+608,Hervanta,Ahvenisjärventie 22,89000.0,62.0,1983.0,Kerrostalo,False,True,Ahvenisjärventie
+609,Vuores,Isokuusenkatu 47 B 35,139890.0,36.5,2020.0,Kerrostalo,False,False,Isokuusenkatu
+610,Keskusta,Sorinsilta 4 A 30,303570.0,43.5,2021.0,Kerrostalo,False,False,Sorinsilta
+611,Ranta-Tampella,Tampellan esplanadi 19 A 36,313180.0,44.0,2020.0,Kerrostalo,False,False,Tampellan
+612,Ranta-Tampella,Tampellan esplanadi 19 A 20,265180.0,36.0,2020.0,Kerrostalo,False,False,Tampellan
+613,Härmälänranta,Niilo Härmälän katu 13 A 62,281600.0,62.5,2021.0,Kerrostalo,True,False,Niilo
+614,Peltolammi,Palokallionkatu 6,117000.0,59.5,1974.0,Kerrostalo,False,False,Palokallionkatu
+615,Niemenranta,Federleynkatu 3,189500.0,46.5,2013.0,Kerrostalo,True,False,Federleynkatu
+616,Koivistonkylä,Lehvänkatu 24 F,95000.0,57.0,1975.0,Kerrostalo,False,False,Lehvänkatu
+617,Ranta-Tampella,Koelaitoksenkatu 4 A 60,246000.0,36.0,2020.0,Kerrostalo,False,False,Koelaitoksenkatu
+618,Lamminpää,Lepokorvenkatu 3,85000.0,53.0,1958.0,Kerrostalo,False,False,Lepokorvenkatu
+619,Hakametsä,Harankatu 9,194500.0,44.0,2017.0,Luhtitalo,False,False,Harankatu
+620,Keskusta,Kansikatu 8 B 188,320190.0,53.5,2020.0,Kerrostalo,True,False,Kansikatu
+621,Pyynikki,Pyhäranta 4 B 46,201540.0,56.0,2020.0,Kerrostalo,False,False,Pyhäranta
+622,Härmälä,Tarmonkuja 4 As 13,173500.0,41.0,2020.0,Kerrostalo,False,False,Tarmonkuja
+623,Härmälä,Tarmonkuja 4 As 16,171300.0,41.0,2020.0,Kerrostalo,False,False,Tarmonkuja
+624,Härmälä,Tarmonkuja 4 As 22,175700.0,41.0,2020.0,Kerrostalo,False,False,Tarmonkuja
+625,Härmälä,Tarmonkuja 4 As 1,164900.0,41.0,2020.0,Kerrostalo,False,False,Tarmonkuja
+626,Härmälä,Tarmonkuja 4 As 4,167100.0,41.0,2020.0,Kerrostalo,False,False,Tarmonkuja
+627,Härmälä,Tarmonkuja 4 As 10,169200.0,41.0,2020.0,Kerrostalo,False,False,Tarmonkuja
+628,Koivistonkylä,Veisunkatu 20 as. 5,197000.0,54.0,2020.0,Luhtitalo,False,False,Veisunkatu
+629,Lielahti,Teivaalantie 5 a A 30,202400.0,50.5,2020.0,Kerrostalo,False,False,Teivaalantie
+630,Vuores,Takamaanrinne 24 A6,128200.0,33.5,2021.0,Kerrostalo,False,False,Takamaanrinne
+631,Haukiluoma,Tyviraitti 1 A,152000.0,45.5,2020.0,Kerrostalo,False,False,Tyviraitti
+632,Haukiluoma,Tyviraitti 1 A,139000.0,43.5,2020.0,Kerrostalo,False,False,Tyviraitti
+633,Härmälänranta,Konttilukinkatu 3 A 8,165500.0,38.0,2021.0,Kerrostalo,False,False,Konttilukinkatu
+634,Härmälänranta,Konttilukinkatu 3 A 9,201500.0,48.5,2021.0,Kerrostalo,False,False,Konttilukinkatu
+635,Härmälänranta,Konttilukinkatu 3 A 13,174500.0,38.0,2021.0,Kerrostalo,False,False,Konttilukinkatu
+636,Härmälänranta,Konttilukinkatu 3 A 15,172500.0,38.0,2021.0,Kerrostalo,False,False,Konttilukinkatu
+637,Härmälänranta,Konttilukinkatu 3 A 18,172500.0,38.5,2021.0,Kerrostalo,False,False,Konttilukinkatu
+638,Härmälänranta,Konttilukinkatu 3 A 20,177500.0,38.5,2021.0,Kerrostalo,False,False,Konttilukinkatu
+639,Härmälänranta,Konttilukinkatu 3 A 21,179500.0,38.0,2021.0,Kerrostalo,False,False,Konttilukinkatu
+640,Härmälänranta,Konttilukinkatu 3 A 23,176500.0,38.0,2021.0,Kerrostalo,False,False,Konttilukinkatu
+641,Härmälänranta,Konttilukinkatu 3 A 28,179500.0,38.5,2021.0,Kerrostalo,False,False,Konttilukinkatu
+642,Härmälänranta,Konttilukinkatu 3 A 29,189500.0,38.0,2021.0,Kerrostalo,False,False,Konttilukinkatu
+643,Ryydynpohja,Ansarinkuja 1,165000.0,60.0,1989.0,Rivitalo,False,False,Ansarinkuja
+644,Lielahti,Ansarinkuja 1,165000.0,60.0,1989.0,Paritalo,False,False,Ansarinkuja
+645,Hatanpää,Siirtolapuutarhankatu 20,185000.0,53.0,2001.0,Kerrostalo,False,False,Siirtolapuutarhankatu
+646,Kauppi,Kuntokatu 11 C 221,245000.0,57.0,2021.0,Kerrostalo,True,False,Kuntokatu
+647,Kauppi,Kuntokatu 11 C C204,221000.0,51.0,2021.0,Kerrostalo,False,False,Kuntokatu
+648,Vuores,Takamaanrinne 24 A1,192500.0,55.0,2021.0,Kerrostalo,False,False,Takamaanrinne
+649,Santalahti,Tiporaitti 9 E 159,245400.0,48.0,2019.0,Kerrostalo,False,False,Tiporaitti
+650,Kaleva,Sarvijaakonkatu 41,219000.0,43.5,2017.0,Kerrostalo,False,False,Sarvijaakonkatu
+651,Härmälä,Tarmonkuja 4 As 22,175700.0,41.0,2020.0,Kerrostalo,False,False,Tarmonkuja
+652,Härmälä,Tarmonkuja 4 As 7,171300.0,41.0,2020.0,Kerrostalo,False,False,Tarmonkuja
+653,Niemenranta,Raamikatu 34 A 19,211800.0,54.5,2020.0,Kerrostalo,True,False,Raamikatu
+654,Niemenranta,Raamikatu 34 A 23,221800.0,54.5,2020.0,Kerrostalo,True,False,Raamikatu
+655,Niemenranta,Raamikatu 34 A 13,203800.0,54.5,2020.0,Kerrostalo,True,False,Raamikatu
+656,Niemenranta,Raamikatu 34 A 7,197800.0,54.5,2020.0,Kerrostalo,True,False,Raamikatu
+657,Niemenranta,Raamikatu 34 A 5,166400.0,43.0,2020.0,Kerrostalo,True,False,Raamikatu
+658,Tesoma,Virontörmänkatu 10,89000.0,61.0,1970.0,Kerrostalo,False,False,Virontörmänkatu
+659,Lielahti,Ollinojankatu 4 A,137000.0,53.5,1990.0,Kerrostalo,True,False,Ollinojankatu
+660,Santalahti,Rantatie 53 B 16,189200.0,38.5,2019.0,Kerrostalo,False,False,Rantatie
+661,Santalahti,Rantatie 53 B 24,201800.0,38.5,2019.0,Kerrostalo,False,False,Rantatie
+662,Keskusta,Satakunnankatu 29 F,229000.0,55.0,1962.0,Kerrostalo,False,False,Satakunnankatu
+663,Hatanpää,Hatanpään puistokuja 27,190900.0,37.0,2019.0,Kerrostalo,False,False,Hatanpään
+664,Hervanta,Insinöörinkatu 80,119000.0,63.0,1995.0,Kerrostalo,False,False,Insinöörinkatu
+665,Kaukajärvi,Järvikatu 8-10,127000.0,48.5,1966.0,Kerrostalo,False,False,Järvikatu
+666,Vuores,Isokuusenkatu 47 A 2,147890.0,42.5,2020.0,Kerrostalo,False,False,Isokuusenkatu
+667,Kaukajärvi,Juvankatu 81,139990.0,44.0,2016.0,Kerrostalo,False,False,Juvankatu
+668,Pyynikki,Satamakatu 17,239000.0,49.0,2019.0,Kerrostalo,False,False,Satamakatu
+669,Keskusta,Kansikatu 8 B 120,193110.0,38.0,2020.0,Kerrostalo,False,False,Kansikatu
+670,Keskusta,Kansikatu 8 A 24,197160.0,43.5,2020.0,Kerrostalo,False,False,Kansikatu
+671,Vuores,Isokuusenkatu 47 A 22,148890.0,42.0,2020.0,Kerrostalo,False,False,Isokuusenkatu
+672,Ranta-Tampella,Ranta-Tampellan katu 15 A45,220160.0,38.0,2019.0,Kerrostalo,False,True,Ranta-Tampellan
+673,Ranta-Tampella,Ranta-Tampellan katu 15 A41,249150.0,35.5,2019.0,Kerrostalo,True,True,Ranta-Tampellan
+674,Ranta-Tampella,Ranta-Tampellan katu 15 A35,245150.0,35.5,2019.0,Kerrostalo,True,True,Ranta-Tampellan
+675,Ranta-Tampella,Ranta-Tampellan katu 15 A23,238150.0,35.5,2019.0,Kerrostalo,True,True,Ranta-Tampellan
+676,Ranta-Tampella,Ranta-Tampellan katu 15 A34,256200.0,49.5,2019.0,Kerrostalo,True,True,Ranta-Tampellan
+677,Tesoma,Kohmankaari 9,129900.0,32.5,2018.0,Kerrostalo,False,False,Kohmankaari
+678,Ranta-Tampella,Tampellan esplanadi 19 A 45,279240.0,36.0,2020.0,Kerrostalo,False,False,Tampellan
+679,Pohtola,Päiväperhonkatu 1,145000.0,40.5,2019.0,Kerrostalo,False,False,Päiväperhonkatu
+680,Veisu,Veisunkatu 20 as. 11,239000.0,59.0,2020.0,Kerrostalo,False,False,Veisunkatu
+681,Rahola,Korvenkatu 62 E 8,173000.0,65.5,1999.0,Paritalo,False,False,Korvenkatu
+682,Koivistonkylä,Veisunkatu 20 as. 6,239000.0,59.0,2020.0,Kerrostalo,False,False,Veisunkatu
+683,Koivistonkylä,Veisunkatu 20 as. 1,197000.0,54.0,2020.0,Kerrostalo,False,False,Veisunkatu
+684,Takahuhti,Hanhenmäenkatu 1 B,210500.0,45.5,2020.0,Kerrostalo,False,False,Hanhenmäenkatu
+685,Multisilta,Perkkoonkatu 1 B,169900.0,38.5,2020.0,Kerrostalo,False,False,Perkkoonkatu
+686,Vuores,Isokuusenkatu 47 C 87,142790.0,36.5,2020.0,Kerrostalo,False,False,Isokuusenkatu
+687,Vuores,Isokuusenkatu 47 C 80,139790.0,36.5,2020.0,Kerrostalo,False,False,Isokuusenkatu
+688,Keskusta,Sorinsilta 4 A 17,299320.0,43.5,2021.0,Kerrostalo,False,False,Sorinsilta
+689,Härmälänranta,Niilo Härmälän katu 13 A 57,221000.0,47.0,2021.0,Kerrostalo,False,False,Niilo
+690,Pyynikki,Pyynikintie 25 A 23,480500.0,77.5,2020.0,Kerrostalo,False,False,Pyynikintie
+691,Vuores,Isokuusenkatu 47 B 40,152890.0,43.5,2020.0,Kerrostalo,False,False,Isokuusenkatu
+692,Kiveliö/Holvasti,Kiveliönkuja 4,89000.0,44.5,1939.0,Puutalo-osake,False,False,Kiveliönkuja
+693,Vuores,Isokuusenkatu 47 C 75,152890.0,43.5,2020.0,Kerrostalo,False,False,Isokuusenkatu
+694,Vuores,Isokuusenkatu 47 C 73,137890.0,36.5,2020.0,Kerrostalo,False,False,Isokuusenkatu
+695,Vuores,Isokuusenkatu 47 C 66,139890.0,36.5,2020.0,Kerrostalo,False,False,Isokuusenkatu
+696,Santalahti,Tiporaitti 9 E 123,199000.0,42.0,2020.0,Kerrostalo,False,False,Tiporaitti
+697,Vuores,Takamaanrinne 4 As 15,179900.0,46.0,2020.0,Kerrostalo,False,False,Takamaanrinne
+698,Ranta-Tampella,Koelaitoksenkatu 4 A 10,240300.0,53.0,2020.0,Kerrostalo,True,False,Koelaitoksenkatu
+699,Pyynikki,Pyhäranta 4 B 50,200916.0,56.0,2020.0,Kerrostalo,False,False,Pyhäranta
+700,Keskusta,Kansikatu 8 A 47,207130.0,44.0,2020.0,Kerrostalo,False,False,Kansikatu
+701,Keskusta,Sorinsilta 4 A 06,369300.0,58.0,2021.0,Kerrostalo,True,False,Sorinsilta
+702,Ranta-Tampella,Tampellan esplanadi 19 A 27,269060.0,36.0,2020.0,Kerrostalo,False,False,Tampellan
+703,Kaleva,Jäähallinraitti 4 A 95,237000.0,41.5,2021.0,Kerrostalo,True,False,Jäähallinraitti
+704,Kaleva,Jäähallinraitti 4 A 86,233000.0,41.5,2021.0,Kerrostalo,True,False,Jäähallinraitti
+705,Kaleva,Jäähallinraitti 4 A 59,220000.0,41.5,2021.0,Kerrostalo,True,False,Jäähallinraitti
+706,Kaleva,Jäähallinraitti 4 A 68,224000.0,41.5,2021.0,Kerrostalo,True,False,Jäähallinraitti
+707,Ristimäki,Kohmankaari 23,139000.0,41.5,2008.0,Kerrostalo,False,False,Kohmankaari
+708,Hatanpää,Hatanpään puistokuja 27 C133,189900.0,37.0,2019.0,Kerrostalo,False,False,Hatanpään
+709,Ranta-Tampella,Tampellan esplanadi 19 A 33,272940.0,36.0,2020.0,Kerrostalo,False,False,Tampellan
+710,Pyynikki,Pyhäranta 4 B 55,217500.0,55.5,2020.0,Kerrostalo,False,False,Pyhäranta
+711,Pyynikki,Pirkankatu 28,149000.0,38.0,2005.0,Kerrostalo,False,False,Pirkankatu
+712,Santalahti,Tiporaitti 9 E159,245400.0,48.0,2019.0,Kerrostalo,False,False,Tiporaitti
+713,Santalahti,Tiporaitti 9 E156,202400.0,36.5,2019.0,Kerrostalo,False,False,Tiporaitti
+714,Santalahti,Tiporaitti 9 E150,235900.0,48.0,2019.0,Kerrostalo,False,False,Tiporaitti
+715,Santalahti,Tiporaitti 9 E135,188900.0,36.5,2019.0,Kerrostalo,False,False,Tiporaitti
+716,Santalahti,Tiporaitti 9 E134,195900.0,38.5,2019.0,Kerrostalo,False,False,Tiporaitti
+717,Santalahti,Tiporaitti 9 C98,206500.0,44.0,2019.0,Kerrostalo,False,False,Tiporaitti
+718,Santalahti,Tiporaitti 9 C84,199900.0,44.0,2019.0,Kerrostalo,False,False,Tiporaitti
+719,Järvensivu,Järvensivuntie 57,128400.0,38.0,1967.0,Kerrostalo,False,False,Järvensivuntie
+720,Kaleva,Sarvijaakonkatu 39,228000.0,46.5,2018.0,Kerrostalo,False,False,Sarvijaakonkatu
+721,Pyynikki,Pyynikintie 25 A 49,573500.0,93.0,2020.0,Kerrostalo,False,False,Pyynikintie
+722,Pyynikki,Pyynikintie 25 A 43,327600.0,51.5,2020.0,Kerrostalo,False,False,Pyynikintie
+723,Pyynikki,Pyhäranta 4 B 62,217164.0,55.5,2020.0,Kerrostalo,False,False,Pyhäranta
+724,Pyynikki,Pyhäranta 4 B 54,212980.0,56.0,2020.0,Kerrostalo,False,False,Pyhäranta
+725,Pyynikki,Pyhäranta 4 A 01,228660.0,52.0,2020.0,Kerrostalo,False,False,Pyhäranta
+726,Keskusta,Sorinsilta 4 A 81,329110.0,43.5,2021.0,Kerrostalo,False,False,Sorinsilta
+727,Pyynikki,F.E. Sillanpään katu 2,259000.0,54.0,2010.0,Kerrostalo,False,False,F.E.
+728,Pyynikki,Pyynikintie 25 A 69,504850.0,69.5,2020.0,Kerrostalo,False,False,Pyynikintie
+729,Epilä,Pispalan valtatie 143,124500.0,56.0,1967.0,Kerrostalo,False,True,Pispalan
+730,Keskusta,Sorinsilta 4 A 69,317760.0,43.5,2021.0,Kerrostalo,False,False,Sorinsilta
+731,Vuores,Isokuusenkatu 47 B 55,142790.0,36.5,2020.0,Kerrostalo,False,False,Isokuusenkatu
+732,Vuores,Isokuusenkatu 47 B 49,139790.0,36.5,2020.0,Kerrostalo,False,False,Isokuusenkatu
+733,Vuores,Isokuusenkatu 47 B 47,156890.0,43.5,2020.0,Kerrostalo,False,False,Isokuusenkatu
+734,Vuores,Isokuusenkatu 47 B 46,144890.0,36.5,2020.0,Kerrostalo,False,False,Isokuusenkatu
+735,Keskusta,Kansikatu 8 B 96,187510.0,38.0,2020.0,Kerrostalo,False,False,Kansikatu
+736,Vuores,Takamaanrinne 24 A22,136000.0,33.5,2021.0,Kerrostalo,False,False,Takamaanrinne
+737,Janka,Lastaajankatu 2,129000.0,40.0,1995.0,Kerrostalo,False,False,Lastaajankatu
+738,Vuores,Isokuusenkatu 47 B 39,142890.0,36.5,2020.0,Kerrostalo,False,False,Isokuusenkatu
+739,Vuores,Isokuusenkatu 47 B 32,139890.0,36.5,2020.0,Kerrostalo,False,False,Isokuusenkatu
+740,Härmälä,Timonkatu 5,138500.0,65.0,1938.0,Kerrostalo,False,False,Timonkatu
+741,Härmälänranta,Myrskynkatu 12,248000.0,53.5,2018.0,Kerrostalo,False,False,Myrskynkatu
+742,Haukiluoma,Tyviraitti 1 A,159000.0,45.5,2020.0,Kerrostalo,False,False,Tyviraitti
+743,Multisilta,Kitiniitynkatu 7,98000.0,62.0,1970.0,Kerrostalo,False,False,Kitiniitynkatu
+744,Vuores,Takamaanrinne 24 A10,217100.0,61.5,2021.0,Kerrostalo,True,False,Takamaanrinne
+745,Koivistonkylä,Ilokkaankatu 6,206700.0,53.0,2020.0,Rivitalo,True,False,Ilokkaankatu
+746,Vuores,Isokuusenkatu 47 C 73,137890.0,36.5,2020.0,Kerrostalo,False,False,Isokuusenkatu
+747,Ranta-Tampella,Tampellan esplanadi 19 A,279240.0,36.0,2020.0,Kerrostalo,False,False,Tampellan
+748,Ranta-Tampella,Tampellan esplanadi 19 A,297660.0,43.5,2020.0,Kerrostalo,False,False,Tampellan
+749,Ranta-Tampella,Tampellan esplanadi 19 A,265180.0,36.0,2020.0,Kerrostalo,False,False,Tampellan
+750,Ranta-Tampella,Tampellan esplanadi 19 A,368930.0,47.5,2020.0,Kerrostalo,False,False,Tampellan
+751,Nekala,Seppäläntie 35,185000.0,,2020.0,Omakotitalo,False,False,Seppäläntie
+752,Lielahti,Teivaalantie 5 a A 41,216400.0,51.5,2020.0,Kerrostalo,True,False,Teivaalantie
+753,Vuores,Isokuusenkatu 47 B 30,141890.0,43.5,2020.0,Kerrostalo,False,False,Isokuusenkatu
+754,Vuores,Isokuusenkatu 47 A 22,148890.0,42.0,2020.0,Kerrostalo,False,False,Isokuusenkatu
+755,Vuores,Isokuusenkatu 47 A 21,157890.0,43.5,2020.0,Kerrostalo,False,False,Isokuusenkatu
+756,Vuores,Isokuusenkatu 47 A 19,146890.0,42.0,2020.0,Kerrostalo,False,False,Isokuusenkatu
+757,Takahuhti,Hanhenmäenkatu 1 B,212500.0,50.0,2020.0,Kerrostalo,False,False,Hanhenmäenkatu
+758,Takahuhti,Hanhenmäenkatu 1 B,189400.0,40.5,2020.0,Kerrostalo,False,False,Hanhenmäenkatu
+759,Vuores,Isokuusenkatu 47 A 15,153890.0,43.5,2020.0,Kerrostalo,False,False,Isokuusenkatu
+760,Vuores,Isokuusenkatu 47 A 13,146890.0,42.0,2020.0,Kerrostalo,False,False,Isokuusenkatu
+761,Ranta-Tampella,Tampellan esplanadi 19 A,318510.0,44.0,2020.0,Kerrostalo,False,False,Tampellan
+762,Ranta-Tampella,Tampellan esplanadi 19 A,262760.0,36.0,2020.0,Kerrostalo,False,False,Tampellan
+763,Ranta-Tampella,Tampellan esplanadi 19 A,294270.0,43.5,2020.0,Kerrostalo,False,False,Tampellan
+764,Ranta-Tampella,Tampellan esplanadi 19 A,360200.0,47.5,2020.0,Kerrostalo,False,False,Tampellan
+765,Lielahti,Teivaalantie 5 a A 12,197200.0,50.5,2020.0,Kerrostalo,False,False,Teivaalantie
+766,Huikas,Ali-Huikkaantie 13a A 17,204900.0,49.5,2021.0,Kerrostalo,False,False,Ali-Huikkaantie
+767,Huikas,Ali-Huikkaantie 13a A 23,172500.0,38.0,2021.0,Kerrostalo,False,False,Ali-Huikkaantie
+768,Huikas,Ali-Huikkaantie 13a A 9,161200.0,38.0,2021.0,Kerrostalo,False,False,Ali-Huikkaantie
+769,Huikas,Ali-Huikkaantie 13a B 31,204900.0,49.5,2021.0,Kerrostalo,False,False,Ali-Huikkaantie
+770,Haukiluoma,Tyviraitti 1 A,145000.0,45.5,2020.0,Kerrostalo,False,False,Tyviraitti
+771,Härmälä,Tarmonkuja 4 As 7,171300.0,41.0,2020.0,Kerrostalo,False,False,Tarmonkuja
+772,Lielahti,Teivaalantie 5 a A 29,161400.0,35.5,2020.0,Kerrostalo,False,False,Teivaalantie
+773,Lielahti,Teivaalantie 5 a A 06,208200.0,51.5,2020.0,Kerrostalo,True,False,Teivaalantie
+774,Lielahti,Teivaalantie 5 a A 39,205400.0,50.5,2020.0,Kerrostalo,False,False,Teivaalantie
+775,Lielahti,Teivaalantie 5 a A 38,164400.0,35.5,2020.0,Kerrostalo,False,False,Teivaalantie
+776,Lielahti,Teivaalantie 5 a A 47,167400.0,35.5,2020.0,Kerrostalo,False,False,Teivaalantie
+777,Lielahti,Teivaalantie 5 a A 32,213400.0,51.5,2020.0,Kerrostalo,True,False,Teivaalantie
+778,Lielahti,Teivaalantie 5 a A 42,168400.0,38.0,2020.0,Kerrostalo,False,False,Teivaalantie
+779,Lielahti,Teivaalantie 5 a A 04,197200.0,50.5,2020.0,Kerrostalo,False,False,Teivaalantie
+780,Lielahti,Teivaalantie 5 a A 15,163200.0,38.0,2020.0,Kerrostalo,False,False,Teivaalantie
+781,Lielahti,Teivaalantie 5 a A 23,210300.0,51.5,2020.0,Kerrostalo,True,False,Teivaalantie
+782,Lielahti,Teivaalantie 5 a A 33,166400.0,38.0,2020.0,Kerrostalo,False,False,Teivaalantie
+783,Lielahti,Teivaalantie 5 a A 03,157200.0,35.5,2020.0,Kerrostalo,False,False,Teivaalantie
+784,Lielahti,Teivaalantie 5 a A 14,208200.0,51.5,2020.0,Kerrostalo,True,False,Teivaalantie
+785,Vuores,Isokuusenkatu 47 B 49,139790.0,36.5,2020.0,Kerrostalo,False,False,Isokuusenkatu
+786,Takahuhti,Hanhenmäenkatu 1 B,208500.0,50.0,2020.0,Kerrostalo,False,False,Hanhenmäenkatu
+787,Muotiala,Ruopionkatu 8 A6,214500.0,48.5,2019.0,Kerrostalo,True,False,Ruopionkatu
+788,Muotiala,Ruopionkatu 8 C43,240800.0,55.0,2019.0,Luhtitalo,True,False,Ruopionkatu
+789,Muotiala,Ruopionkatu 8 C42,240800.0,55.0,2019.0,Luhtitalo,True,False,Ruopionkatu
+790,Muotiala,Ruopionkatu 8 C25,231400.0,55.0,2019.0,Luhtitalo,True,False,Ruopionkatu
+791,Härmälänranta,Niilo Härmälän katu 13 A 59,189900.0,37.5,2021.0,Kerrostalo,False,False,Niilo
+792,Härmälänranta,Niilo Härmälän katu 13 A 52,184900.0,37.5,2021.0,Kerrostalo,False,False,Niilo
+793,Härmälänranta,Niilo Härmälän katu 13 A 50,214100.0,50.5,2021.0,Kerrostalo,False,False,Niilo
+794,Härmälänranta,Niilo Härmälän katu 13 A 48,228900.0,53.5,2021.0,Kerrostalo,True,False,Niilo
+795,Härmälänranta,Niilo Härmälän katu 13 A 41,201900.0,44.5,2021.0,Kerrostalo,False,False,Niilo
+796,Härmälänranta,Niilo Härmälän katu 13 A 39,209100.0,50.5,2021.0,Kerrostalo,False,False,Niilo
+797,Ranta-Tampella,Ranta-Tampellan katu 5,239000.0,36.0,2018.0,Kerrostalo,False,False,Ranta-Tampellan
+798,Keskusta,Kansikatu 8 B 189,329220.0,54.0,2020.0,Kerrostalo,True,False,Kansikatu
+799,Keskusta,Kansikatu 8 B 196,332030.0,54.0,2020.0,Kerrostalo,True,False,Kansikatu
+800,Keskusta,Kansikatu 8 B 195,322990.0,53.5,2020.0,Kerrostalo,True,False,Kansikatu
+801,Keskusta,Kansikatu 8 B 182,321130.0,54.0,2020.0,Kerrostalo,True,False,Kansikatu
+802,Keskusta,Kansikatu 8 B 181,312090.0,53.5,2020.0,Kerrostalo,True,False,Kansikatu
+803,Keskusta,Kansikatu 8 B 174,303370.0,53.5,2020.0,Kerrostalo,True,False,Kansikatu
+804,Keskusta,Kansikatu 8 B 84,185330.0,38.0,2020.0,Kerrostalo,False,False,Kansikatu
+805,Takahuhti,Hanhenmäenkatu 1 B,192700.0,40.5,2020.0,Kerrostalo,False,False,Hanhenmäenkatu
+806,Takahuhti,Hanhenmäenkatu 1 B,220900.0,45.5,2020.0,Kerrostalo,False,False,Hanhenmäenkatu
+807,Takahuhti,Hanhenmäenkatu 1 A,221100.0,55.5,2020.0,Kerrostalo,False,False,Hanhenmäenkatu
+808,Haukiluoma,Tyviraitti 1 A 39,159000.0,45.5,2020.0,Kerrostalo,False,False,Tyviraitti
+809,Haukiluoma,Tyviraitti 1 A 29,152000.0,45.5,2020.0,Kerrostalo,False,False,Tyviraitti
+810,Ranta-Tampella,Tampellan esplanadi 19 A 15,297660.0,43.5,2020.0,Kerrostalo,False,False,Tampellan
+811,Ranta-Tampella,Tampellan esplanadi 19 A 09,331120.0,44.5,2020.0,Kerrostalo,False,False,Tampellan
+812,Ranta-Tampella,Tampellan esplanadi 19 A 07,294270.0,43.5,2020.0,Kerrostalo,False,False,Tampellan
+813,Ranta-Tampella,Ranta-Tampellan katu 3 B 75,247600.0,35.0,2020.0,Kerrostalo,False,False,Ranta-Tampellan
+814,Ranta-Tampella,Ranta-Tampellan katu 3 B 70,228400.0,35.0,2020.0,Kerrostalo,False,False,Ranta-Tampellan
+815,Ranta-Tampella,Ranta-Tampellan katu 3 B 51,345300.0,65.5,2020.0,Kerrostalo,True,False,Ranta-Tampellan
+816,Ranta-Tampella,Ranta-Tampellan katu 3 B 46,321600.0,65.5,2020.0,Kerrostalo,True,False,Ranta-Tampellan
+817,Ranta-Tampella,Ranta-Tampellan katu 3 B 42,305400.0,65.5,2020.0,Kerrostalo,True,False,Ranta-Tampellan
+818,Maisansalo,Koljonseläntie 7,57000.0,54.0,1975.0,Paritalo,False,False,Koljonseläntie
+819,Keskusta,Yliopistonkatu 50,275000.0,47.0,2016.0,Kerrostalo,True,True,Yliopistonkatu
+820,Vuores,Isokuusenkatu 47 A 3,147890.0,43.5,2020.0,Kerrostalo,False,False,Isokuusenkatu
+821,Takahuhti,Hanhenmäenkatu 1 B43,219800.0,55.5,2020.0,Kerrostalo,False,False,Hanhenmäenkatu
+822,Takahuhti,Hanhenmäenkatu 1 B45,194500.0,50.0,2020.0,Kerrostalo,False,False,Hanhenmäenkatu
+823,Takahuhti,Hanhenmäenkatu 1 A33,195600.0,45.5,2020.0,Kerrostalo,True,False,Hanhenmäenkatu
+824,Takahuhti,Hanhenmäenkatu 1 A25,191700.0,45.5,2020.0,Kerrostalo,True,False,Hanhenmäenkatu
+825,Takahuhti,Hanhenmäenkatu 1 A41,199500.0,45.5,2020.0,Kerrostalo,True,False,Hanhenmäenkatu
+826,Takahuhti,Hanhenmäenkatu 1 A37,193300.0,46.5,2020.0,Kerrostalo,False,False,Hanhenmäenkatu
+827,Takahuhti,Hanhenmäenkatu 1 B70,202000.0,40.5,2020.0,Kerrostalo,False,False,Hanhenmäenkatu
+828,Takahuhti,Hanhenmäenkatu 1 B64,192700.0,40.5,2020.0,Kerrostalo,False,False,Hanhenmäenkatu
+829,Takahuhti,Hanhenmäenkatu 1 B52,186000.0,40.5,2020.0,Kerrostalo,False,False,Hanhenmäenkatu
+830,Takahuhti,Hanhenmäenkatu 1 B58,189400.0,40.5,2020.0,Kerrostalo,False,False,Hanhenmäenkatu
+831,Takahuhti,Hanhenmäenkatu 1 B74,183000.0,37.0,2020.0,Kerrostalo,False,False,Hanhenmäenkatu
+832,Takahuhti,Hanhenmäenkatu 1 B68,174800.0,37.0,2020.0,Kerrostalo,False,False,Hanhenmäenkatu
+833,Takahuhti,Hanhenmäenkatu 1 B62,171800.0,37.0,2020.0,Kerrostalo,False,False,Hanhenmäenkatu
+834,Takahuhti,Hanhenmäenkatu 1 B50,165800.0,37.0,2020.0,Kerrostalo,False,False,Hanhenmäenkatu
+835,Takahuhti,Hanhenmäenkatu 1 B73,220900.0,45.5,2020.0,Kerrostalo,True,False,Hanhenmäenkatu
+836,Takahuhti,Hanhenmäenkatu 1 B67,210500.0,45.5,2020.0,Kerrostalo,True,False,Hanhenmäenkatu
+837,Takahuhti,Hanhenmäenkatu 1 B61,206700.0,45.5,2020.0,Kerrostalo,True,False,Hanhenmäenkatu
+838,Takahuhti,Hanhenmäenkatu 1 B55,202900.0,45.5,2020.0,Kerrostalo,True,False,Hanhenmäenkatu
+839,Takahuhti,Hanhenmäenkatu 1 B49,199100.0,45.5,2020.0,Kerrostalo,True,False,Hanhenmäenkatu
+840,Takahuhti,Hanhenmäenkatu 1 B72,227500.0,50.0,2020.0,Kerrostalo,False,False,Hanhenmäenkatu
+841,Takahuhti,Hanhenmäenkatu 1 B60,212500.0,50.0,2020.0,Kerrostalo,False,False,Hanhenmäenkatu
+842,Takahuhti,Hanhenmäenkatu 1 B66,216500.0,50.0,2020.0,Kerrostalo,False,False,Hanhenmäenkatu
+843,Takahuhti,Hanhenmäenkatu 1 B54,208500.0,50.0,2020.0,Kerrostalo,False,False,Hanhenmäenkatu
+844,Takahuhti,Hanhenmäenkatu 1 B48,204500.0,50.0,2020.0,Kerrostalo,False,False,Hanhenmäenkatu
+845,Haukiluoma,Tyviraitti 1 A 19,145000.0,45.5,2020.0,Kerrostalo,False,False,Tyviraitti
+846,Vuores,Isokuusenkatu 47 C 80,139790.0,36.5,2020.0,Kerrostalo,False,False,Isokuusenkatu
+847,Vuores,Isokuusenkatu 47 A 8,149890.0,43.0,2020.0,Kerrostalo,False,False,Isokuusenkatu
+848,Vuores,Isokuusenkatu 47 C 87,142790.0,36.5,2020.0,Kerrostalo,False,False,Isokuusenkatu
+849,Vuores,Isokuusenkatu 47 B 32,139890.0,36.5,2020.0,Kerrostalo,False,False,Isokuusenkatu
+850,Vuores,Isokuusenkatu 47 A 19,146890.0,42.0,2020.0,Kerrostalo,False,False,Isokuusenkatu
+851,Vuores,Isokuusenkatu 47 A 7,142490.0,42.0,2020.0,Kerrostalo,False,False,Isokuusenkatu
+852,Vuores,Isokuusenkatu 47 B 30,141890.0,43.5,2020.0,Kerrostalo,False,False,Isokuusenkatu
+853,Vuores,Isokuusenkatu 47 A 9,149890.0,43.5,2020.0,Kerrostalo,False,False,Isokuusenkatu
+854,Vuores,Isokuusenkatu 47 A 4,141890.0,43.5,2020.0,Kerrostalo,False,False,Isokuusenkatu
+855,Kaleva,Sarvijaakonkatu 1 A A 12,234090.0,46.0,2020.0,Kerrostalo,False,False,Sarvijaakonkatu
+856,Kaleva,Sarvijaakonkatu 1 A A 53,241535.0,41.5,2020.0,Kerrostalo,False,False,Sarvijaakonkatu
+857,Kaleva,Sarvijaakonkatu 1 A A 21,259251.0,51.0,2020.0,Kerrostalo,False,False,Sarvijaakonkatu
+858,Kaleva,Sarvijaakonkatu 1 A A 13,224128.0,41.5,2020.0,Kerrostalo,False,False,Sarvijaakonkatu
+859,Niemenranta,Federleynkatu 8 A 30,181300.0,43.0,2020.0,Kerrostalo,False,False,Federleynkatu
+860,Niemenranta,Federleynkatu 8 A 37,189600.0,43.0,2020.0,Kerrostalo,False,False,Federleynkatu
+861,Niemenranta,Federleynkatu 8 A 32,211800.0,50.0,2020.0,Kerrostalo,True,False,Federleynkatu
+862,Niemenranta,Federleynkatu 8 A 24,171200.0,40.5,2020.0,Kerrostalo,False,False,Federleynkatu
+863,Niemenranta,Federleynkatu 8 A 21,195100.0,48.0,2020.0,Kerrostalo,True,False,Federleynkatu
+864,Niemenranta,Federleynkatu 8 A 11,191400.0,50.0,2020.0,Kerrostalo,True,False,Federleynkatu
+865,Niemenranta,Federleynkatu 8 A 9,163000.0,43.0,2020.0,Kerrostalo,False,False,Federleynkatu
+866,Villilä,Sorakuopankatu 2,171000.0,54.0,2013.0,Kerrostalo,False,False,Sorakuopankatu
+867,Maisansalo,Koljonseläntie 7,84000.0,57.0,1975.0,Paritalo,True,False,Koljonseläntie
+868,Pohtola,Päiväperhonkatu 1 A 49,149900.0,39.0,2019.0,Kerrostalo,False,False,Päiväperhonkatu
+869,Santalahti,Tiporaitti 9 E 155,202400.0,36.5,2019.0,Kerrostalo,False,False,Tiporaitti
+870,Santalahti,Tiporaitti 9 E 145,194700.0,36.5,2019.0,Kerrostalo,False,False,Tiporaitti
+871,Pyynikki,Pyynikintie 25 A 62,343200.0,52.0,2020.0,Kerrostalo,False,False,Pyynikintie
+872,Pyynikki,Pyynikintie 25 A 54,362250.0,53.0,2020.0,Kerrostalo,False,False,Pyynikintie
+873,Pyynikki,Pyynikintie 25 A 76,288000.0,40.0,2020.0,Kerrostalo,False,False,Pyynikintie
+874,Pyynikki,Pyynikintie 25 A 34,326400.0,51.0,2020.0,Kerrostalo,False,False,Pyynikintie
+875,Pyynikki,Pyynikintie 25 A 13,330750.0,53.0,2020.0,Kerrostalo,False,False,Pyynikintie
+876,Pyynikki,Pyynikintie 25 A 2,428400.0,76.5,2020.0,Kerrostalo,False,False,Pyynikintie
+877,Härmälä,Tarmonkuja 4 As 16,171300.0,41.0,2020.0,Kerrostalo,False,False,Tarmonkuja
+878,Haukiluoma,Tyviraitti 1 A 39,159000.0,45.5,2020.0,Kerrostalo,False,False,Tyviraitti
+879,Haukiluoma,Tyviraitti 1 A 29,152000.0,45.5,2020.0,Kerrostalo,False,False,Tyviraitti
+880,Haukiluoma,Tyviraitti 1 A 20,139000.0,43.5,2020.0,Kerrostalo,False,False,Tyviraitti
+881,Haukiluoma,Tyviraitti 1 A 19,145000.0,45.5,2020.0,Kerrostalo,False,False,Tyviraitti
+882,Haukiluoma,Tyviraitti 1 A 22,125000.0,34.0,2020.0,Kerrostalo,False,False,Tyviraitti
+883,Vuores,Isokuusenkatu 47 A 10,142490.0,42.0,2020.0,Kerrostalo,False,False,Isokuusenkatu
+884,Vuores,Isokuusenkatu 47 A 9,149890.0,43.5,2020.0,Kerrostalo,False,False,Isokuusenkatu
+885,Vuores,Isokuusenkatu 47 A 8,149890.0,43.0,2020.0,Kerrostalo,False,False,Isokuusenkatu
+886,Pohtola,Päiväperhonkatu 1 A 40,149900.0,39.0,2019.0,Kerrostalo,False,False,Päiväperhonkatu
+887,Pohtola,Päiväperhonkatu 1 A 18,145900.0,39.0,2019.0,Kerrostalo,False,False,Päiväperhonkatu
+888,Härmälä,Tarmonkuja 4 As 13,173500.0,41.0,2020.0,Kerrostalo,False,False,Tarmonkuja
+889,Härmälä,Tarmonkuja 4 As 10,169200.0,41.0,2020.0,Kerrostalo,False,False,Tarmonkuja
+890,Härmälä,Tarmonkuja 4 As 4,167100.0,41.0,2020.0,Kerrostalo,False,False,Tarmonkuja
+891,Härmälä,Tarmonkuja 4 As 1,164900.0,41.0,2020.0,Kerrostalo,False,False,Tarmonkuja
+892,Ranta-Tampella,Koelaitoksenkatu 4 A 76,340200.0,54.0,2020.0,Kerrostalo,True,False,Koelaitoksenkatu
+893,Ranta-Tampella,Koelaitoksenkatu 4 B 81,223900.0,40.5,2020.0,Kerrostalo,False,False,Koelaitoksenkatu
+894,Ranta-Tampella,Koelaitoksenkatu 4 A 73,329300.0,54.0,2020.0,Kerrostalo,True,False,Koelaitoksenkatu
+895,Ranta-Tampella,Koelaitoksenkatu 4 A 66,318500.0,54.0,2020.0,Kerrostalo,True,False,Koelaitoksenkatu
+896,Ranta-Tampella,Koelaitoksenkatu 4 A 52,297500.0,54.0,2020.0,Kerrostalo,True,False,Koelaitoksenkatu
+897,Ranta-Tampella,Koelaitoksenkatu 4 A 53,240100.0,36.0,2020.0,Kerrostalo,False,False,Koelaitoksenkatu
+898,Ranta-Tampella,Koelaitoksenkatu 4 A 46,234300.0,36.0,2020.0,Kerrostalo,False,False,Koelaitoksenkatu
+899,Ranta-Tampella,Koelaitoksenkatu 4 A 39,228500.0,36.0,2020.0,Kerrostalo,False,False,Koelaitoksenkatu
+900,Ranta-Tampella,Koelaitoksenkatu 4 A 32,222700.0,36.0,2020.0,Kerrostalo,False,False,Koelaitoksenkatu
+901,Vuores,Isokuusenkatu 47 B 35,139890.0,36.5,2020.0,Kerrostalo,False,False,Isokuusenkatu
+902,Vuores,Isokuusenkatu 47 C 62,137890.0,36.5,2020.0,Kerrostalo,False,False,Isokuusenkatu
+903,Vuores,Isokuusenkatu 47 A 4,141890.0,43.5,2020.0,Kerrostalo,False,False,Isokuusenkatu
+904,Vuores,Isokuusenkatu 47 A 7,142490.0,42.0,2020.0,Kerrostalo,False,False,Isokuusenkatu
+905,Vuores,Isokuusenkatu 47 A 5,147890.0,42.5,2020.0,Kerrostalo,False,False,Isokuusenkatu
+906,Vuores,Isokuusenkatu 47 A 3,147890.0,43.5,2020.0,Kerrostalo,False,False,Isokuusenkatu
+907,Vuores,Isokuusenkatu 47 A 2,147890.0,42.5,2020.0,Kerrostalo,False,False,Isokuusenkatu
+908,Lintuhytti,Heinurinkuja 6 D 19,152000.0,50.0,2020.0,Luhtitalo,True,False,Heinurinkuja
+909,Lintuhytti,Heinurinkuja 6 D 14,159000.0,50.0,2020.0,Luhtitalo,True,False,Heinurinkuja
+910,Pyynikki,Pyynikintie 25 A 14,326400.0,51.0,2020.0,Kerrostalo,False,False,Pyynikintie
+911,Pyynikki,Pyynikintie 25 A 78,367500.0,52.0,2020.0,Kerrostalo,False,False,Pyynikintie
+912,Pyynikki,Pyynikintie 25 A 29,567300.0,93.0,2020.0,Kerrostalo,False,False,Pyynikintie
+913,Pyynikki,Pyynikintie 25 A 12,321300.0,51.0,2020.0,Kerrostalo,False,False,Pyynikintie
+914,Vuores,Takamaanrinne 4,179900.0,46.0,2020.0,Kerrostalo,False,False,Takamaanrinne
+915,Santalahti,Tiporaitti 9 E 145,194700.0,36.5,2019.0,Kerrostalo,False,False,Tiporaitti
+916,Lintuhytti,Lintuhytinkatu 7 B 24,137000.0,39.0,2019.0,Luhtitalo,False,False,Lintuhytinkatu
+917,Kaleva,Sarvijaakonkatu 23,185000.0,36.5,2018.0,Kerrostalo,False,False,Sarvijaakonkatu
+918,Ranta-Tampella,Ranta-Tampellan katu 15 A,249150.0,35.5,2020.0,Kerrostalo,False,False,Ranta-Tampellan
+919,Ranta-Tampella,Ranta-Tampellan katu 15 A,242150.0,35.5,2020.0,Kerrostalo,False,False,Ranta-Tampellan
+920,Ranta-Tampella,Ranta-Tampellan katu 15 A,238150.0,35.5,2020.0,Kerrostalo,False,False,Ranta-Tampellan
+921,Ranta-Tampella,Ranta-Tampellan katu 15 A,225180.0,43.5,2020.0,Kerrostalo,False,False,Ranta-Tampellan
+922,Ranta-Tampella,Ranta-Tampellan katu 15 A,220180.0,43.5,2020.0,Kerrostalo,False,False,Ranta-Tampellan
+923,Vuores,Takamaanrinne 24 A14,132200.0,33.5,2021.0,Kerrostalo,False,False,Takamaanrinne
+924,Vuores,Takamaanrinne 24 A11,175100.0,49.0,2021.0,Kerrostalo,False,False,Takamaanrinne
+925,Vuores,Takamaanrinne 24 A38,144200.0,33.5,2021.0,Kerrostalo,False,False,Takamaanrinne
+926,Vuores,Takamaanrinne 24 A35,192600.0,49.0,2021.0,Kerrostalo,False,False,Takamaanrinne
+927,Vuores,Takamaanrinne 24 A30,141200.0,33.5,2021.0,Kerrostalo,False,False,Takamaanrinne
+928,Vuores,Takamaanrinne 24 A27,186100.0,49.0,2021.0,Kerrostalo,False,False,Takamaanrinne
+929,Vuores,Takamaanrinne 24 A23,207900.0,55.0,2021.0,Kerrostalo,False,False,Takamaanrinne
+930,Vuores,Takamaanrinne 24 A19,181100.0,49.0,2021.0,Kerrostalo,False,False,Takamaanrinne
+931,Vuores,Takamaanrinne 24 A15,202800.0,55.0,2021.0,Kerrostalo,False,False,Takamaanrinne
+932,Vuores,Takamaanrinne 24 A7,196300.0,55.0,2021.0,Kerrostalo,False,False,Takamaanrinne
+933,Pyynikki,Pyynikintie 25 A 55,349350.0,51.0,2020.0,Kerrostalo,False,False,Pyynikintie
+934,Pyynikki,Pyynikintie 25 A 37,296700.0,46.0,2020.0,Kerrostalo,False,False,Pyynikintie
+935,Härmälänranta,Myrskynkatu 12,182000.0,45.5,2018.0,Kerrostalo,False,False,Myrskynkatu
+936,Pyynikki,Pyynikintie 25 A 35,336000.0,53.0,2020.0,Kerrostalo,False,False,Pyynikintie
+937,Pyynikki,Pyynikintie 25 A 68,708550.0,93.5,2020.0,Kerrostalo,False,False,Pyynikintie
+938,Pyynikki,Pyynikintie 25 A 46,477700.0,73.5,2020.0,Kerrostalo,False,False,Pyynikintie
+939,Santalahti,Rantatie 37 C,194700.0,38.0,2019.0,Kerrostalo,False,False,Rantatie
+940,Santalahti,Tiporaitti 9 E 156,202400.0,36.5,2019.0,Kerrostalo,False,False,Tiporaitti
+941,Santalahti,Tiporaitti 9 E 150,235900.0,48.0,2019.0,Kerrostalo,False,False,Tiporaitti
+942,Santalahti,Tiporaitti 9 E 135,188900.0,36.5,2019.0,Kerrostalo,False,False,Tiporaitti
+943,Santalahti,Tiporaitti 9 E 134,195900.0,38.5,2019.0,Kerrostalo,False,False,Tiporaitti
+944,Santalahti,Tiporaitti 9 C 98,206500.0,44.0,2019.0,Kerrostalo,False,False,Tiporaitti
+945,Santalahti,Tiporaitti 9 E 154,209800.0,38.5,2019.0,Kerrostalo,False,False,Tiporaitti
+946,Santalahti,Tiporaitti 9 C 84,199900.0,44.0,2019.0,Kerrostalo,False,False,Tiporaitti
+947,Santalahti,Tiporaitti 9 E 156,202400.0,36.5,2019.0,Kerrostalo,False,False,Tiporaitti
+948,Santalahti,Tiporaitti 9 E 155,202400.0,36.5,2019.0,Kerrostalo,False,False,Tiporaitti
+949,Santalahti,Tiporaitti 9 E 154,209800.0,38.5,2019.0,Kerrostalo,False,False,Tiporaitti
+950,Santalahti,Tiporaitti 9 E 150,235900.0,48.0,2019.0,Kerrostalo,False,False,Tiporaitti
+951,Santalahti,Tiporaitti 9 E 147,194700.0,36.5,2019.0,Kerrostalo,False,False,Tiporaitti
+952,Santalahti,Tiporaitti 9 E 144,201900.0,38.5,2019.0,Kerrostalo,False,False,Tiporaitti
+953,Santalahti,Tiporaitti 9 E 138,188900.0,36.5,2019.0,Kerrostalo,False,False,Tiporaitti
+954,Santalahti,Tiporaitti 9 E 135,188900.0,36.5,2019.0,Kerrostalo,False,False,Tiporaitti
+955,Santalahti,Tiporaitti 9 E 134,195900.0,38.5,2019.0,Kerrostalo,False,False,Tiporaitti
+956,Santalahti,Tiporaitti 9 C 98,206500.0,44.0,2019.0,Kerrostalo,False,False,Tiporaitti
+957,Santalahti,Tiporaitti 9 C 84,199900.0,44.0,2019.0,Kerrostalo,False,False,Tiporaitti
+958,Lintuhytti,Lintuhytinkatu 7 B 23,137000.0,39.0,2019.0,Luhtitalo,False,False,Lintuhytinkatu
+959,Haukiluoma,Runkokatu 6,85000.0,51.0,1977.0,Kerrostalo,False,False,Runkokatu
+960,Vuores,Takamaanrinne 24 A19,181100.0,49.0,2021.0,Kerrostalo,False,False,Takamaanrinne
+961,Vuores,Takamaanrinne 24 A15,202800.0,55.0,2021.0,Kerrostalo,False,False,Takamaanrinne
+962,Vuores,Takamaanrinne 24 A7,196300.0,55.0,2021.0,Kerrostalo,False,False,Takamaanrinne
+963,Pyynikki,Pyynikintie 25 A 55,349350.0,51.0,2020.0,Kerrostalo,False,False,Pyynikintie
+964,Pyynikki,Pyynikintie 25 A 37,296700.0,46.0,2020.0,Kerrostalo,False,False,Pyynikintie
+965,Härmälänranta,Myrskynkatu 12,182000.0,45.5,2018.0,Kerrostalo,False,False,Myrskynkatu
+966,Pyynikki,Pyynikintie 25 A 35,336000.0,53.0,2020.0,Kerrostalo,False,False,Pyynikintie
+967,Pyynikki,Pyynikintie 25 A 68,708550.0,93.5,2020.0,Kerrostalo,False,False,Pyynikintie
+968,Pyynikki,Pyynikintie 25 A 46,477700.0,73.5,2020.0,Kerrostalo,False,False,Pyynikintie
+969,Santalahti,Rantatie 37 C,194700.0,38.0,2019.0,Kerrostalo,False,False,Rantatie
+970,Santalahti,Tiporaitti 9 E 156,202400.0,36.5,2019.0,Kerrostalo,False,False,Tiporaitti
+971,Santalahti,Tiporaitti 9 E 150,235900.0,48.0,2019.0,Kerrostalo,False,False,Tiporaitti
+972,Santalahti,Tiporaitti 9 E 135,188900.0,36.5,2019.0,Kerrostalo,False,False,Tiporaitti
+973,Santalahti,Tiporaitti 9 E 134,195900.0,38.5,2019.0,Kerrostalo,False,False,Tiporaitti
+974,Santalahti,Tiporaitti 9 C 98,206500.0,44.0,2019.0,Kerrostalo,False,False,Tiporaitti
+975,Santalahti,Tiporaitti 9 E 154,209800.0,38.5,2019.0,Kerrostalo,False,False,Tiporaitti
+976,Santalahti,Tiporaitti 9 C 84,199900.0,44.0,2019.0,Kerrostalo,False,False,Tiporaitti
+977,Santalahti,Tiporaitti 9 E 156,202400.0,36.5,2019.0,Kerrostalo,False,False,Tiporaitti
+978,Santalahti,Tiporaitti 9 E 155,202400.0,36.5,2019.0,Kerrostalo,False,False,Tiporaitti
+979,Santalahti,Tiporaitti 9 E 154,209800.0,38.5,2019.0,Kerrostalo,False,False,Tiporaitti
+980,Santalahti,Tiporaitti 9 E 150,235900.0,48.0,2019.0,Kerrostalo,False,False,Tiporaitti
+981,Santalahti,Tiporaitti 9 E 147,194700.0,36.5,2019.0,Kerrostalo,False,False,Tiporaitti
+982,Santalahti,Tiporaitti 9 E 144,201900.0,38.5,2019.0,Kerrostalo,False,False,Tiporaitti
+983,Santalahti,Tiporaitti 9 E 138,188900.0,36.5,2019.0,Kerrostalo,False,False,Tiporaitti
+984,Santalahti,Tiporaitti 9 E 135,188900.0,36.5,2019.0,Kerrostalo,False,False,Tiporaitti
+985,Santalahti,Tiporaitti 9 E 134,195900.0,38.5,2019.0,Kerrostalo,False,False,Tiporaitti
+986,Santalahti,Tiporaitti 9 C 98,206500.0,44.0,2019.0,Kerrostalo,False,False,Tiporaitti
+987,Santalahti,Tiporaitti 9 C 84,199900.0,44.0,2019.0,Kerrostalo,False,False,Tiporaitti
+988,Lintuhytti,Lintuhytinkatu 7 B 23,137000.0,39.0,2019.0,Luhtitalo,False,False,Lintuhytinkatu
+989,Haukiluoma,Runkokatu 6,85000.0,51.0,1977.0,Kerrostalo,False,False,Runkokatu
