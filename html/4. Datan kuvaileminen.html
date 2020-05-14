@@ -1,0 +1,53 @@
+﻿<!DOCTYPE html>
+<html>
+
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>4. Datan kuvaileminen</title>
+  <link rel="stylesheet" href="https://stackedit.io/style.css" />
+</head>
+
+<body class="stackedit">
+  <div class="stackedit__html"><p>Johdanto Datatieteeseen 2020</p>
+<h1 id="harjoitustyö-datan-kuvaileminen">Harjoitustyö: Datan kuvaileminen</h1>
+<p><strong>Tuomas Mäkäräinen, 274351</strong></p>
+<h2 id="monipuolinen-visuaalinen-raportti">Monipuolinen visuaalinen raportti</h2>
+<p>Aluksi katsellaan pandasin describe-metodin tuotosta:<br>
+<img src="https://raw.githubusercontent.com/tuomak-uni/joda/1963d842f2a7e57a85385206bcc955e5682cec64/kuvat/df_describe.png" alt="# df_describe"><br>
+Count-riviltä nähdään tämä hetkisten rivien määrä, mean-riviltä nähdään sarakkeiden keskiarvoja, ja max-riviltä kunkin sarakkeen maksimi arvo. Muilla riveillä on lisää erilaisia tilastollisia tunnuslukuja ja kvartiileita.<br>
+<br><br>
+Datan visuaaliseen tarkasteluun hyödynnän matplotlib- ja seaborn -kirjastoja.<br>
+Aluksi loin pari perus histogrammia antamaan käsitystä asuntojen hintojen ja kokojen suuruksien jakaumista.<br>
+<img src="https://raw.githubusercontent.com/tuomak-uni/joda/1963d842f2a7e57a85385206bcc955e5682cec64/kuvat/size_hist.png" alt="# size_hist"><br>
+Asuntojen koot asettuvat pääosin siis 30 ja 70 neliömetrin välille.<br>
+<img src="https://raw.githubusercontent.com/tuomak-uni/joda/1963d842f2a7e57a85385206bcc955e5682cec64/kuvat/price_hist.png" alt="# price_hist"><br>
+Hinnat painottuvat vahvasti 200 000 euron paikkeille.<br>
+Lisäksi päätin vertailla ilmoitusten määriä alueiden perusteella:<br>
+<img src="https://raw.githubusercontent.com/tuomak-uni/joda/fa0143caebf053280287ccdb4219b85d3decc828/kuvat/area_count.png" alt="# area_count"><br>
+Nähdään erojen oleva suuria: joillakin alueilla on vain yksittäisiä ilmoituksia, kun taas toisilla useita kymmeniä. Lisädata ei siis olisi pahitteeksi, mutta sen kerääminen jääköön toiseksi projektiksi.<br>
+<br><br>
+Tämän jälkeen lähdin tutkimaan alue-, ja valmistusvuosikohtaisia eroja boxplottien avulla:<br>
+<img src="https://raw.githubusercontent.com/tuomak-uni/joda/1963d842f2a7e57a85385206bcc955e5682cec64/kuvat/area_box.png" alt="# area_box"><br>
+Kalleimmaksi alueiksi kuvaajasta erottuvat Keskusta, Messukylä, sekä Pyynikki<br>
+<br><br>
+<img src="https://raw.githubusercontent.com/tuomak-uni/joda/1963d842f2a7e57a85385206bcc955e5682cec64/kuvat/year_box.png" alt="# year_box"><br>
+Tästä kuvaajasta voidaan nähdä, että 70-luvulla valmistuneiden rakennusten neliöhinnat ovat matalimpia.<br>
+<img src="https://raw.githubusercontent.com/tuomak-uni/joda/1963d842f2a7e57a85385206bcc955e5682cec64/kuvat/size_box.png" alt="# size_box"><br>
+Uudempien asuntojen koot näyttävät olevan keskiarvoisesti pienempiä.<br>
+<br><br>
+Päätin tehdä vielä kollaasikuvaajan, jossa on nähtävillä usean muuttujan väliset suhteet ja sovitesuorat. Tähän seaborn-kirjasto tarjoaa pariplot-funktion:<br>
+<img src="https://raw.githubusercontent.com/tuomak-uni/joda/1963d842f2a7e57a85385206bcc955e5682cec64/kuvat/pairplot.png" alt="# pair_plot"><br>
+Tästä kuvaajasta voidaan tehdä lineaarisen regression kannalta mielenkiintoisia havaintoja.</p>
+<p><b>Koodit GitHubissa:<b> <a href="https://github.com/tuomak-uni/joda">https://github.com/tuomak-uni/joda</a>  .</b></b></p>
+<h3 id="hyödylliset-lähteet">Hyödylliset lähteet</h3>
+<p>seaborn doc: <a href="https://seaborn.pydata.org/api.html">https://seaborn.pydata.org/api.html</a><br>
+matplotlib doc: <a href="https://matplotlib.org/3.2.1/contents.html">https://matplotlib.org/3.2.1/contents.html</a></p>
+<h3 id="helpot-ja-haastavat-asiat">Helpot ja haastavat asiat</h3>
+<ul>
+<li>Kuvaajien muodostaminen oli aluksi hieman kinkkistä, mutta esimerkkien ja dokumentaation avulla se osoittautui loppupeleissä aika helpoksi.</li>
+</ul>
+</div>
+</body>
+
+</html>

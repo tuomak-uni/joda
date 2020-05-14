@@ -1,0 +1,45 @@
+﻿<!DOCTYPE html>
+<html>
+
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>3. Datan jalostaminen</title>
+  <link rel="stylesheet" href="https://stackedit.io/style.css" />
+</head>
+
+<body class="stackedit">
+  <div class="stackedit__html"><p>Johdanto Datatieteeseen 2020</p>
+<h1 id="harjoitustyö-datan-jalostaminen">Harjoitustyö: Datan jalostaminen</h1>
+<p><strong>Tuomas Mäkäräinen, 274351</strong></p>
+<h2 id="web-dad">Web DAD</h2>
+<p>Datan siistiminen alkoi jo raavinta vaiheessa:<br>
+<img src="https://raw.githubusercontent.com/tuomak-uni/joda/ff833dc854939346a013213f17f6037a3146d433/kuvat/enrich_scrape.png" alt="# Enrich_scrape"><br>
+Erittelin siis tekstimuodossa ilmoitetut asuntoon liittyvät ominaisuudet. Niiden perusteella lisätään esimerkiksi saunan tapauksessa tietorakenteen sauna-sarakkeeseen totuusarvo, eikä alkuperäistä tekstimuotoista arvoa.<br>
+<br><br>
+Pandaksen DataFrame-tietorakenteen .info() -metodin avulla saa kätevästi tietoja esimerkiksi sarakkeiden tietotyypeistä, ja puuttuvista arvoista.<br>
+<img src="https://raw.githubusercontent.com/tuomak-uni/joda/ff833dc854939346a013213f17f6037a3146d433/kuvat/df_info.png" alt="# DF_INFO"><br>
+Non-Null Count -sarakkeenn arvoista voidaan nähdä, että parilla riviltä puuttu yksittäiset arvot. Koska puuttuvien tietojen määrä on niin pieni, voitaisiin rivit, joilta tietoja puuttuu poistaa ilman suurta menetystä. Ajattelin kuitenkin harjoitusmielessä korvata puuttuvat arvot aluekohtaisilla keskiarvoilla, sillä puuttuvat arvot sattuvat liittymään asuntojen hintaan ja kokoon.<br>
+<img src="https://raw.githubusercontent.com/tuomak-uni/joda/ff833dc854939346a013213f17f6037a3146d433/kuvat/replace_nan.png" alt="# replace_nan"><br>
+Kuten uudelleen kutsutusta info -metodista nähdään, ei puuttuivia arvoja enää ole. Muutin samalla Vuosi -sarakkeen tietotyypin liukuluvusta kokonaisluvuksi.<br>
+<br><br>
+Jotta datassa olevia kategorisia muuttujia voitaisiin käyttää laskennalisessa toiminnoissa, tulee niille määrittää korvaavat numeeriset arvot. Tähän hyödynnän sklearn-kirjaston preprocessing -osiosta löytyvää LabelEncoder -funktiota. Jätän Osoite -sarakkeen käsittelemättä, koska ajattelin, ettei siitä saada lisäarvoa analyysiin.<br>
+<img src="https://raw.githubusercontent.com/tuomak-uni/joda/ff833dc854939346a013213f17f6037a3146d433/kuvat/encoding.png" alt="# encoding"><br>
+Looppi siis luo uudet sarakkeet koodatuilla arvoilla. Koodatun sarakkeen tunnistaa nimen perässä olevasta alaviivasta.<br>
+<br><br>
+Päätin myös luoda uuden sarakkeen vastamaamaan asunnon hinnan ja koon suhdetta, eli niin kutsuttua neliöhintaa.<br>
+<br><br>
+Näiden toimenpiteiden jälkeen data näyttää tältä:<br>
+<img src="https://raw.githubusercontent.com/tuomak-uni/joda/c2a55ef1a531cfca5ebeba3e1e18351a74ccf5ae/kuvat/encoded_table.png" alt="enter image description here"></p>
+<p><b>Koodit GitHubissa:<b> <a href="https://github.com/tuomak-uni/joda">https://github.com/tuomak-uni/joda</a>  .</b></b></p>
+<h3 id="hyödylliset-lähteet">Hyödylliset lähteet</h3>
+<p>Null-arvojen korvaus: <a href="https://stackoverflow.com/questions/18689823/pandas-dataframe-replace-nan-values-with-average-of-columns">https://stackoverflow.com/questions/18689823/pandas-dataframe-replace-nan-values-with-average-of-columns</a><br>
+LabelEncoder doc: <a href="https://scikit-learn.org/stable/modules/generated/sklearn.preprocessing.LabelEncoder.html">https://scikit-learn.org/stable/modules/generated/sklearn.preprocessing.LabelEncoder.html</a></p>
+<h3 id="helpot-ja-haastavat-asiat">Helpot ja haastavat asiat</h3>
+<ul>
+<li>Kokeilin ensin korvata muutettavat arvot kokonaan LabelEncoderilla, mutta niiden takaisin kääntämisessä tuli ongelmia, joten päädyin luomaan uudet sarakkeet korvaaville arvoille.</li>
+</ul>
+</div>
+</body>
+
+</html>

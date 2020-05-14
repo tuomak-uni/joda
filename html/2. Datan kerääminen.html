@@ -1,0 +1,35 @@
+﻿<!DOCTYPE html>
+<html>
+
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>2. Datan kerääminen</title>
+  <link rel="stylesheet" href="https://stackedit.io/style.css" />
+</head>
+
+<body class="stackedit">
+  <div class="stackedit__html"><p>Johdanto Datatieteeseen 2020</p>
+<h1 id="harjoitustyö-datan-kerääminen">Harjoitustyö: Datan kerääminen</h1>
+<p><strong>Tuomas Mäkäräinen, 274351</strong></p>
+<h2 id="oma-data">Oma data</h2>
+<p>Päätin haastaa hiukan itseäni ja kokeilla raapia dataa BeautifulSoup-kirjaston avulla  Tampereen kaksioihin liittyvistä myynti-ilmoituksista <a href="http://Etuovi.com">Etuovi.com</a> -sivustolta. Mallia toteutukseen sain hieman eräästä vastaavanlaisesta BeautifulSoup-tutoriaalista, mutta loppupeleissä toteutus oli aika pitkälti omaa käsialaa.<br>
+Asensin siis aiemmin ladattujen kirjastojen lisäksi beautifulsoup4-kirjaston, ja lähdin toteuttamaan raavintafunktiota paloittain. Käytännössä tämä vaati erilasiten vaihtoehtojen kokeilua, ja hyväksi toteamista. Määrittelin get-pyyntöä varten header-tiedot, jotta sivusto ajattelee pyynnon tulevan oikealta selaimelta.<br>
+<img src="https://github.com/tuomak-uni/joda/blob/master/kuvat/scrape.png?raw=true" alt="Osa raapimistoiminnallisuudesta"><br>
+Myynti-ilmoitukset ovat kohdesivulla usealla eri välilehdellä, joten ensiksi haetaan ensimmäisen välilehden sisältö, josta puretaan välilehtien määrä. Tätä hyödynnetään seuraavassa for-loopissa, joka siis iteroi jokaisen välilehden läpi hakien sen tiedot get-pyynnöllä, ja purkaa sitten halutut tiedot saaduista tiedoista. Lisäsin varmuuden vuoksi viiden sekunnin viiveen jokaisen palvelinpyynnön välille, jotta kohdesivu ei kuormittuisi liikaa kerralla. Lisäsin toki myös tallennuksen paikalliseen tiedostoon, ja totuusarvon avulla voidaan määrittää, haetaanko uutta dataa, vai käytetäänkö vain paikallista. Jos äsken mainittu totuusarvo on epätosi, suoritetaan raavinta, ja lisätään uudet kohteet entisten lisäksi.<br>
+Saatu raakadata taulukossa näyttää tältä:<br>
+<img src="https://raw.githubusercontent.com/tuomak-uni/joda/1038e24a4999d8ea421be696209e5d4cae43b3c5/kuvat/raw_df_head.png" alt="# raw_df_head"></p>
+<p>Raavintafunktio kokonaisuudessaan löytyy <b>GitHubista:</b> <a href="https://github.com/tuomak-uni/joda">https://github.com/tuomak-uni/joda</a>  .</p>
+<h3 id="hyödylliset-lähteet">Hyödylliset lähteet</h3>
+<p>BeautifulSoup4 doc: <a href="https://www.crummy.com/software/BeautifulSoup/bs4/doc/">https://www.crummy.com/software/BeautifulSoup/bs4/doc/</a><br>
+Data: <a href="https://www.etuovi.com/myytavat-asunnot/tampere">https://www.etuovi.com/myytavat-asunnot/tampere</a><br>
+Tutoriaali: -   <a href="https://towardsdatascience.com/looking-for-a-house-build-a-web-scraper-to-help-you-5ab25badc83e">https://towardsdatascience.com/looking-for-a-house-build-a-web-scraper-to-help-you-5ab25badc83e</a></p>
+<h3 id="helpot-ja-haastavat-asiat">Helpot ja haastavat asiat</h3>
+<ul>
+<li>BeautifulSoup oli ennestään tuttu, mutta tutoriaalista oli myös apua.</li>
+<li>Vaikka toteuttamiseen meni hetki aikaa, oli se yllättävän helppoa ja palkitsevaa. Tämän kunniaksi toteutin funktion etenemistä kuvaavan pienen latauspalkin.</li>
+</ul>
+</div>
+</body>
+
+</html>

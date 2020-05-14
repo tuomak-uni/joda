@@ -1,0 +1,49 @@
+﻿<!DOCTYPE html>
+<html>
+
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>6. Toimeenpano</title>
+  <link rel="stylesheet" href="https://stackedit.io/style.css" />
+</head>
+
+<body class="stackedit">
+  <div class="stackedit__html"><p>Johdanto Datatieteeseen 2020</p>
+<h1 id="harjoitustyö-toimeenpano">Harjoitustyö: Toimeenpano</h1>
+<p><strong>Tuomas Mäkäräinen, 274351</strong><br>
+Harjoitustyöni tarkoituksena oli raapia dataa Tampereen kaksioista <a href="http://Etuovi.com">Etuovi.com</a> -sivustolta, siistiä sitä, tunnistaa merkittävät ominaisuudet, sekä luokitteleva asunnon hinnan arvioija.</p>
+<h2 id="yleiskatsaus-kaksiomarkkinoihin">Yleiskatsaus kaksiomarkkinoihin</h2>
+<p>Loin pienimuotoisen kollaasin asuntojen hintatietojen ominaisuuksista:</p>
+<p><img src="https://raw.githubusercontent.com/tuomak-uni/joda/0cd65a61b25d930b1e3bff12ad4b047b8c9cfbf8/kuvat/price_info.png" alt="# price_info"><br>
+Tästä voidaan nähdä erilaisia tilastollisia tunnuslukuja hinnoista.</p>
+<h2 id="optimointi">Optimointi</h2>
+<p>Löysin aikaa tutustua hieman mallien optimointiin, ja toteutinkin pienimuotoista parameterien iterointia pätevien arvojen löytämiseksi:</p>
+<p><img src="https://raw.githubusercontent.com/tuomak-uni/joda/f59f20fa1e8191ee677f7d59835617699d3ccd16/kuvat/regr_opt.png" alt="# REGR_OPT"><br>
+Tämä on kuitenkin erittäin karkeaa, ja tarkempaa hienosäätöä on varaa tehdä. Se jääköön kehityskohteeksi.</p>
+<h2 id="mallien-toiminta">Mallien toiminta</h2>
+<p>Valitsin syötetiedoksi seuraavanlaiset:</p>
+<p><img src="https://raw.githubusercontent.com/tuomak-uni/joda/f59f20fa1e8191ee677f7d59835617699d3ccd16/kuvat/pred_input.png" alt="# pred_input"></p>
+<p>Asunnon koko on siis 40 neliömetriä, valmistumisvuosi 2019, eikä saunaa tai parveketta ole.</p>
+<p>Ensiksi luokittelija arvioi alueen, jolta vastaavanlainen asunto voisi löytyä, ja tämän tiedon avulla regressiomalli arvioi asunnolle hinnan. Toiminnallisuuden koodipätkä:</p>
+<p><img src="https://raw.githubusercontent.com/tuomak-uni/joda/f59f20fa1e8191ee677f7d59835617699d3ccd16/kuvat/pred_functionality.png" alt="# pred_func"></p>
+<p>ja saatu tulos:</p>
+<p><img src="https://raw.githubusercontent.com/tuomak-uni/joda/f59f20fa1e8191ee677f7d59835617699d3ccd16/kuvat/pred_result.png" alt="# pred_result"><br>
+Arvio osuu aika hyvin mediaanin alapuolelle.</p>
+<p><b>Koodit GitHubissa:<b> <a href="https://github.com/tuomak-uni/joda">https://github.com/tuomak-uni/joda</a></b></b></p>
+<h3 id="kehityskohteita-tulevaisuudelle">Kehityskohteita tulevaisuudelle</h3>
+<ul>
+<li>Laajempi datan keräys: Useampia lähteitä, useampia ominaisuuksi, pidemmältä ajanjaksolta, esimerkiksi myös erityyppisiä asuntoja</li>
+<li>Mallien optimointi: Optimiparametrien iterointi</li>
+<li>Jakaa osiot omiin notebookkeihin, jotta toistuvat suoritteet olisivat nopeampia.</li>
+</ul>
+<h3 id="hyödylliset-lähteet">Hyödylliset lähteet</h3>
+<p>sklearn parameter tuning: <a href="https://scikit-learn.org/stable/modules/grid_search.html">https://scikit-learn.org/stable/modules/grid_search.html</a></p>
+<h3 id="helpot-ja-haastavat-asiat">Helpot ja haastavat asiat</h3>
+<ul>
+<li>Optimointi ja muu mallien kehittäminen on mielenkiintoinen osa-alue, mutta se vaatii tutustumista.</li>
+</ul>
+</div>
+</body>
+
+</html>
